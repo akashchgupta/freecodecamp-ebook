@@ -44,7 +44,9 @@ To pass the test on this challenge, change your <code>h1</code> element's text t
 <h1>Hello World</h1>
 ```
 </section>
-<br><hr># 2. Basic HTML and HTML5
+<hr>
+
+# 2. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -87,7 +89,9 @@ Add an <code>h2</code> tag that says "CatPhotoApp" to create a second HTML <code
 </section>  
 
 
-<br><hr># 3. Basic HTML and HTML5
+<hr>
+
+# 3. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -128,7 +132,9 @@ As a convention, all HTML tags are written in lowercase, for example <code>&#60;
 // solution required
 ```
 </section>
-<br><hr># 4. Basic HTML and HTML5
+<hr>
+
+# 4. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -170,7 +176,9 @@ Replace the text inside your <code>p</code> element with the first few words of 
 // solution required
 ```
 </section>
-<br><hr># 5. Basic HTML and HTML5
+<hr>
+
+# 5. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -218,7 +226,9 @@ Uncomment your <code>h1</code>, <code>h2</code> and <code>p</code> elements.
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 ```
 </section>
-<br><hr># 6. Basic HTML and HTML5
+<hr>
+
+# 6. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -264,7 +274,9 @@ Comment out your <code>h1</code> element and your <code>p</code> element, but no
 ```
 
 </section>
-<br><hr># 7. Basic HTML and HTML5
+<hr>
+
+# 7. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -307,7 +319,9 @@ var code = "<h2>CatPhotoApp</h2><p>Kitty ipsum dolor sit amet, shed everywhere s
 ```
 
 </section>
-<br><hr># 8. Basic HTML and HTML5
+<hr>
+
+# 8. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -349,7 +363,9 @@ Wrap the paragraphs with an opening and closing <code>main</code> tag.
 // solution required
 ```
 </section>
-<br><hr># 9. Basic HTML and HTML5
+<hr>
+
+# 9. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -409,7 +425,9 @@ Finally don't forget to give your image an <code>alt</code> text.
 ```
 
 </section>
-<br><hr># 10. Basic HTML and HTML5
+<hr>
+
+# 10. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -457,7 +475,9 @@ Create an <code>a</code> element that links to <code>http://freecatphotoapp.com<
 // solution required
 ```
 </section>
-<br><hr># 11. Basic HTML and HTML5
+<hr>
+
+# 11. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -526,7 +546,9 @@ Then add an <code>id</code> attribute with a value of "footer" to the <code>&lt;
 ```
 
 </section>
-<br><hr># 12. Basic HTML and HTML5
+<hr>
+
+# 12. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -579,7 +601,9 @@ Now nest the existing <code>a</code> element within a new <code>p</code> element
 // solution required
 ```
 </section>
-<br><hr># 13. Basic HTML and HTML5
+<hr>
+
+# 13. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -625,7 +649,9 @@ For example: <code>href="#"</code>
 // solution required
 ```
 </section>
-<br><hr># 14. Basic HTML and HTML5
+<hr>
+
+# 14. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -673,7 +699,9 @@ Once you've done this, hover over your image with your cursor. Your cursor's nor
 // solution required
 ```
 </section>
-<br><hr># 15. Basic HTML and HTML5
+<hr>
+
+# 15. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -721,7 +749,9 @@ Remove the last two <code>p</code> elements and create an unordered list of thre
 // solution required
 ```
 </section>
-<br><hr># 16. Basic HTML and HTML5
+<hr>
+
+# 16. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -775,7 +805,9 @@ Create an ordered list of the top 3 things cats hate the most.
 // solution required
 ```
 </section>
-<br><hr># 17. Basic HTML and HTML5
+<hr>
+
+# 17. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -857,7 +889,9 @@ Create an <code>input</code> element of type <code>text</code> below your lists.
 ```
 
 </section>
-<br><hr># 18. Basic HTML and HTML5
+<hr>
+
+# 18. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -914,7 +948,9 @@ Set the <code>placeholder</code> value of your text <code>input</code> to "cat p
 // solution required
 ```
 </section>
-<br><hr># 19. Basic HTML and HTML5
+<hr>
+
+# 19. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -971,7 +1007,9 @@ Nest your text field inside a <code>form</code> element, and add the <code>actio
 // solution required
 ```
 </section>
-<br><hr># 20. Basic HTML and HTML5
+<hr>
+
+# 20. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -1050,7 +1088,9 @@ Add a button as the last element of your <code>form</code> element with a type o
 ```
 
 </section>
-<br><hr># 21. Basic HTML and HTML5
+<hr>
+
+# 21. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -1110,7 +1150,9 @@ Then try to submit the form without inputting any text. See how your HTML5 form 
 // solution required
 ```
 </section>
-<br><hr># 22. Basic HTML and HTML5
+<hr>
+
+# 22. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -1175,7 +1217,9 @@ Add a pair of radio buttons to your form, each nested in its own <code>label</co
 // solution required
 ```
 </section>
-<br><hr># 23. Basic HTML and HTML5
+<hr>
+
+# 23. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -1241,7 +1285,9 @@ Add to your form a set of three checkboxes. Each checkbox should be nested withi
 // solution required
 ```
 </section>
-<br><hr># 24. Basic HTML and HTML5
+<hr>
+
+# 24. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -1334,7 +1380,9 @@ Set the first of your <code>radio button</code>s and the first of your <code>che
 ```
 
 </section>
-<br><hr># 25. Basic HTML and HTML5
+<hr>
+
+# 25. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -1401,7 +1449,9 @@ Hint: Try putting your opening <code>div</code> tag above your "Things cats love
 // solution required
 ```
 </section>
-<br><hr># 26. Basic HTML and HTML5
+<hr>
+
+# 26. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -1449,7 +1499,9 @@ Add a <code>DOCTYPE</code> tag for HTML5 to the top of the blank HTML document i
 ```
 
 </section>
-<br><hr># 27. Basic HTML and HTML5
+<hr>
+
+# 27. Basic HTML and HTML5
 
 ## Description
 <section id='description'>
@@ -1505,7 +1557,9 @@ Edit the markup so there's a <code>head</code> and a <code>body</code>. The <cod
 </html>
 ```
 </section>
-<br><hr># 1. Basic CSS
+<hr>
+
+# 1. Basic CSS
 
 ## Description
 <section id='description'>
@@ -1607,7 +1661,9 @@ Change your <code>h2</code> element's style so that its text color is red.
 ```
 
 </section>
-<br><hr># 2. Basic CSS
+<hr>
+
+# 2. Basic CSS
 
 ## Description
 <section id='description'>
@@ -1680,7 +1736,9 @@ Delete your <code>h2</code> element's style attribute, and instead create a CSS 
 // solution required
 ```
 </section>
-<br><hr># 3. Basic CSS
+<hr>
+
+# 3. Basic CSS
 
 ## Description
 <section id='description'>
@@ -1759,7 +1817,9 @@ Give your <code>h2</code> element the <code>class</code> attribute with a value 
 // solution required
 ```
 </section>
-<br><hr># 4. Basic CSS
+<hr>
+
+# 4. Basic CSS
 
 ## Description
 <section id='description'>
@@ -1831,7 +1891,9 @@ Classes allow you to use the same CSS styles on multiple HTML elements. You can 
 // solution required
 ```
 </section>
-<br><hr># 5. Basic CSS
+<hr>
+
+# 5. Basic CSS
 
 ## Description
 <section id='description'>
@@ -1904,7 +1966,9 @@ Inside the same <code>&#60;style&#62;</code> tag that contains your <code>red-te
 // solution required
 ```
 </section>
-<br><hr># 6. Basic CSS
+<hr>
+
+# 6. Basic CSS
 
 ## Description
 <section id='description'>
@@ -1982,7 +2046,9 @@ Make all of your <code>p</code> elements use the <code>monospace</code> font.
 // solution required
 ```
 </section>
-<br><hr># 7. Basic CSS
+<hr>
+
+# 7. Basic CSS
 
 ## Description
 <section id='description'>
@@ -2066,7 +2132,9 @@ Create a <code>font-family</code> CSS rule that uses the <code>Lobster</code> fo
 // solution required
 ```
 </section>
-<br><hr># 8. Basic CSS
+<hr>
+
+# 8. Basic CSS
 
 ## Description
 <section id='description'>
@@ -2154,7 +2222,9 @@ In the last challenge, you imported the <code>Lobster</code> font using the <cod
 // solution required
 ```
 </section>
-<br><hr># 9. Basic CSS
+<hr>
+
+# 9. Basic CSS
 
 ## Description
 <section id='description'>
@@ -2289,7 +2359,9 @@ Create a class called <code>smaller-image</code> and use it to resize the image 
 </main>
 ```
 </section>
-<br><hr># 10. Basic CSS
+<hr>
+
+# 10. Basic CSS
 
 ## Description
 <section id='description'>
@@ -2434,7 +2506,9 @@ Remember that you can apply multiple classes to an element using its <code>class
 ```
 
 </section>
-<br><hr># 11. Basic CSS
+<hr>
+
+# 11. Basic CSS
 
 ## Description
 <section id='description'>
@@ -2584,7 +2658,9 @@ Note: this challenge allows for multiple possible solutions. For example, you ma
 </main>
 ```
 </section>
-<br><hr># 12. Basic CSS
+<hr>
+
+# 12. Basic CSS
 
 ## Description
 <section id='description'>
@@ -2677,7 +2753,9 @@ Give your cat photo a <code>border-radius</code> of <code>50%</code>.
 // solution required
 ```
 </section>
-<br><hr># 13. Basic CSS
+<hr>
+
+# 13. Basic CSS
 
 ## Description
 <section id='description'>
@@ -2772,7 +2850,9 @@ Create a class called <code>silver-background</code> with the <code>background-c
 // solution required
 ```
 </section>
-<br><hr># 14. Basic CSS
+<hr>
+
+# 14. Basic CSS
 
 ## Description
 <section id='description'>
@@ -2873,7 +2953,9 @@ Give your <code>form</code> element the id <code>cat-photo-form</code>.
 // solution required
 ```
 </section>
-<br><hr># 15. Basic CSS
+<hr>
+
+# 15. Basic CSS
 
 ## Description
 <section id='description'>
@@ -2974,7 +3056,9 @@ Try giving your form, which now has the <code>id</code> attribute of <code>cat-p
 // solution required
 ```
 </section>
-<br><hr># 16. Basic CSS
+<hr>
+
+# 16. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3050,7 +3134,9 @@ Change the <code>padding</code> of your blue box to match that of your red box.
 // solution required
 ```
 </section>
-<br><hr># 17. Basic CSS
+<hr>
+
+# 17. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3162,7 +3248,9 @@ Change the <code>margin</code> of the blue box to match that of the red box.
 </div>
 ```
 </section>
-<br><hr># 18. Basic CSS
+<hr>
+
+# 18. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3273,7 +3361,9 @@ Change the <code>margin</code> of the blue box to <code>-15px</code>, so it fill
 </div>
 ```
 </section>
-<br><hr># 19. Basic CSS
+<hr>
+
+# 19. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3347,7 +3437,9 @@ Give the blue box a <code>padding</code> of <code>40px</code> on its top and lef
 // solution required
 ```
 </section>
-<br><hr># 20. Basic CSS
+<hr>
+
+# 20. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3462,7 +3554,9 @@ Give the blue box a <code>margin</code> of <code>40px</code> on its top and left
 </div>
 ```
 </section>
-<br><hr># 21. Basic CSS
+<hr>
+
+# 21. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3534,7 +3628,9 @@ Use Clockwise Notation to give the ".blue-box" class a <code>padding</code> of <
 // solution required
 ```
 </section>
-<br><hr># 22. Basic CSS
+<hr>
+
+# 22. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3641,7 +3737,9 @@ Use <code>Clockwise Notation</code> to give the element with the <code>blue-box<
 ```
 
 </section>
-<br><hr># 23. Basic CSS
+<hr>
+
+# 23. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3741,7 +3839,9 @@ Using the <code>type</code> attribute selector, try to give the checkboxes in Ca
 // solution required
 ```
 </section>
-<br><hr># 24. Basic CSS
+<hr>
+
+# 24. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3814,7 +3914,9 @@ Add a <code>padding</code> property to the element with class <code>red-box</cod
 // solution required
 ```
 </section>
-<br><hr># 25. Basic CSS
+<hr>
+
+# 25. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3855,7 +3957,9 @@ We can do this by adding the following to our <code>style</code> element:
 // solution required
 ```
 </section>
-<br><hr># 26. Basic CSS
+<hr>
+
+# 26. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3899,7 +4003,9 @@ Finally, give your <code>body</code> element the font-family of <code>monospace<
 // solution required
 ```
 </section>
-<br><hr># 27. Basic CSS
+<hr>
+
+# 27. Basic CSS
 
 ## Description
 <section id='description'>
@@ -3956,7 +4062,9 @@ Give your <code>h1</code> element the class of <code>pink-text</code>.
 
 ```
 </section>
-<br><hr># 28. Basic CSS
+<hr>
+
+# 28. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4008,7 +4116,9 @@ However, the order of the <code>class</code> declarations in the <code>&#60;styl
 // solution required
 ```
 </section>
-<br><hr># 29. Basic CSS
+<hr>
+
+# 29. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4064,7 +4174,9 @@ Note: It doesn't matter whether you declare this CSS above or below pink-text cl
 // solution required
 ```
 </section>
-<br><hr># 30. Basic CSS
+<hr>
+
+# 30. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4119,7 +4231,9 @@ Leave the <code>blue-text</code> and <code>pink-text</code> classes on your <cod
 // solution required
 ```
 </section>
-<br><hr># 31. Basic CSS
+<hr>
+
+# 31. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4176,7 +4290,9 @@ An example of how to do this is:
 // solution required
 ```
 </section>
-<br><hr># 32. Basic CSS
+<hr>
+
+# 32. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4219,7 +4335,9 @@ Replace the word <code>black</code> in our <code>body</code> element's backgroun
 // solution required
 ```
 </section>
-<br><hr># 33. Basic CSS
+<hr>
+
+# 33. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4281,7 +4399,9 @@ Replace the color words in our <code>style</code> element with their correct hex
 // solution required
 ```
 </section>
-<br><hr># 34. Basic CSS
+<hr>
+
+# 34. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4341,7 +4461,9 @@ Go ahead, try using the abbreviated hex codes to color the correct elements.
 // solution required
 ```
 </section>
-<br><hr># 35. Basic CSS
+<hr>
+
+# 35. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4389,7 +4511,9 @@ Let's replace the hex code in our <code>body</code> element's background color w
 // solution required
 ```
 </section>
-<br><hr># 36. Basic CSS
+<hr>
+
+# 36. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4468,7 +4592,9 @@ Replace the hex codes in our <code>style</code> element with their correct RGB v
 <h1 class="blue-text">I am blue!</h1>
 ```
 </section>
-<br><hr># 37. Basic CSS
+<hr>
+
+# 37. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4706,7 +4832,9 @@ var code = ".penguin {--penguin-skin: gray; --penguin-belly: white; --penguin-be
 ```
 
 </section>
-<br><hr># 38. Basic CSS
+<hr>
+
+# 38. Basic CSS
 
 ## Description
 <section id='description'>
@@ -4943,7 +5071,9 @@ var code = ".penguin {--penguin-skin: gray;}"
 ```
 
 </section>
-<br><hr># 39. Basic CSS
+<hr>
+
+# 39. Basic CSS
 
 ## Description
 <section id='description'>
@@ -5193,7 +5323,9 @@ var code = ".penguin-top {background: var(--penguin-skin);} .penguin-bottom {bac
 ```
 
 </section>
-<br><hr># 40. Basic CSS
+<hr>
+
+# 40. Basic CSS
 
 ## Description
 <section id='description'>
@@ -5439,7 +5571,9 @@ var code = ".penguin-top {background: var(--pengiun-skin, black);} .penguin-bott
 ```
 
 </section>
-<br><hr># 41. Basic CSS
+<hr>
+
+# 41. Basic CSS
 
 ## Description
 <section id='description'>
@@ -5490,7 +5624,9 @@ var code=".red-box {background: red; background: var(--red-color);}"
 ```
 
 </section>
-<br><hr># 42. Basic CSS
+<hr>
+
+# 42. Basic CSS
 
 ## Description
 <section id='description'>
@@ -5731,7 +5867,9 @@ var code = ":root {--penguin-belly: pink;}"
 ```
 
 </section>
-<br><hr># 43. Basic CSS
+<hr>
+
+# 43. Basic CSS
 
 ## Description
 <section id='description'>
@@ -5973,7 +6111,9 @@ var code = ".penguin {--penguin-belly: white;}"
 ```
 
 </section>
-<br><hr># 44. Basic CSS
+<hr>
+
+# 44. Basic CSS
 
 ## Description
 <section id='description'>
@@ -6241,7 +6381,9 @@ var code = "@media (max-width: 350px) {:root {--penguin-size: 200px; --penguin-s
 ```
 
 </section>
-<br><hr># 1. Applied Visual Design
+<hr>
+
+# 1. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -6314,7 +6456,9 @@ Align the <code>h4</code> tag's text, which says "Google", to the center. Then j
 // solution required
 ```
 </section>
-<br><hr># 2. Applied Visual Design
+<hr>
+
+# 2. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -6418,7 +6562,9 @@ Add a <code>width</code> property to the entire card and set it to an absolute v
 ```
 
 </section>
-<br><hr># 3. Applied Visual Design
+<hr>
+
+# 3. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -6489,7 +6635,9 @@ Add a <code>height</code> property to the <code>h4</code> tag and set it to 25px
 // solution required
 ```
 </section>
-<br><hr># 4. Applied Visual Design
+<hr>
+
+# 4. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -6562,7 +6710,9 @@ Wrap a <code>strong</code> tag around "Stanford University" inside the <code>p</
 // solution required
 ```
 </section>
-<br><hr># 5. Applied Visual Design
+<hr>
+
+# 5. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -6636,7 +6786,9 @@ Wrap the <code>u</code> tag only around the text "Ph.D. students".
 // solution required
 ```
 </section>
-<br><hr># 6. Applied Visual Design
+<hr>
+
+# 6. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -6709,7 +6861,9 @@ Wrap an <code>em</code> tag around the contents of the paragraph tag to give it 
 // solution required
 ```
 </section>
-<br><hr># 7. Applied Visual Design
+<hr>
+
+# 7. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -6819,7 +6973,9 @@ Wrap the <code>s</code> tag around "Google" inside the <code>h4</code> tag and t
 </div>
 ```
 </section>
-<br><hr># 8. Applied Visual Design
+<hr>
+
+# 8. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -6894,7 +7050,9 @@ Add an <code>hr</code> tag underneath the <code>h4</code> which contains the car
 // solution required
 ```
 </section>
-<br><hr># 9. Applied Visual Design
+<hr>
+
+# 9. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -6974,7 +7132,9 @@ Also for the <code>h4</code>, remove the <code>height</code> property and add <c
 // solution required
 ```
 </section>
-<br><hr># 10. Applied Visual Design
+<hr>
+
+# 10. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7050,7 +7210,9 @@ To make the heading significantly larger than the paragraph, change the <code>fo
 // solution required
 ```
 </section>
-<br><hr># 11. Applied Visual Design
+<hr>
+
+# 11. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7134,7 +7296,9 @@ var code = "#thumbnail {box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba
 ```
 
 </section>
-<br><hr># 12. Applied Visual Design
+<hr>
+
+# 12. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7216,7 +7380,9 @@ Set the <code>opacity</code> of the anchor tags to 0.7 using <code>links</code> 
 // solution required
 ```
 </section>
-<br><hr># 13. Applied Visual Design
+<hr>
+
+# 13. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7299,7 +7465,9 @@ Transform the text of the <code>h4</code> to be uppercase using the <code>text-t
 // solution required
 ```
 </section>
-<br><hr># 14. Applied Visual Design
+<hr>
+
+# 14. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7348,7 +7516,9 @@ The <code>font-size</code> property is used to specify how large the text is in 
 // solution required
 ```
 </section>
-<br><hr># 15. Applied Visual Design
+<hr>
+
+# 15. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7416,7 +7586,9 @@ The <code>font-weight</code> property sets how thick or thin characters are in a
 // solution required
 ```
 </section>
-<br><hr># 16. Applied Visual Design
+<hr>
+
+# 16. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7459,7 +7631,9 @@ Change the value of the <code>font-size</code> property for the paragraph to 16p
 // solution required
 ```
 </section>
-<br><hr># 17. Applied Visual Design
+<hr>
+
+# 17. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7503,7 +7677,9 @@ Add a <code>line-height</code> property to the <code>p</code> tag and set it to 
 // solution required
 ```
 </section>
-<br><hr># 18. Applied Visual Design
+<hr>
+
+# 18. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7560,7 +7736,9 @@ The code editor has a CSS rule to style all <code>a</code> tags black. Add a rul
 <a href="http://freecatphotoapp.com/" target="_blank">CatPhotoApp</a>
 ```
 </section>
-<br><hr># 19. Applied Visual Design
+<hr>
+
+# 19. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7610,7 +7788,9 @@ Change the <code>position</code> of the <code>h2</code> to <code>relative</code>
 // solution required
 ```
 </section>
-<br><hr># 20. Applied Visual Design
+<hr>
+
+# 20. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7660,7 +7840,9 @@ Use CSS offsets to move the <code>h2</code> 15 pixels to the right and 10 pixels
 // solution required
 ```
 </section>
-<br><hr># 21. Applied Visual Design
+<hr>
+
+# 21. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7716,7 +7898,9 @@ Lock the <code>#searchbar</code> element to the top-right of its <code>section</
 // solution required
 ```
 </section>
-<br><hr># 22. Applied Visual Design
+<hr>
+
+# 22. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7784,7 +7968,9 @@ The navigation bar in the code is labeled with an id of <code>navbar</code>. Cha
 // solution required
 ```
 </section>
-<br><hr># 23. Applied Visual Design
+<hr>
+
+# 23. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7848,7 +8034,9 @@ The given markup would work well as a two-column layout, with the <code>section<
 // solution required
 ```
 </section>
-<br><hr># 24. Applied Visual Design
+<hr>
+
+# 24. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7906,7 +8094,9 @@ Add a <code>z-index</code> property to the element with the class name of <code>
 // solution required
 ```
 </section>
-<br><hr># 25. Applied Visual Design
+<hr>
+
+# 25. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -7953,7 +8143,9 @@ var code = "div {background-color: blue; height: 100px; width: 100px; margin: au
 ```
 
 </section>
-<br><hr># 26. Applied Visual Design
+<hr>
+
+# 26. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8012,7 +8204,9 @@ Change the <code>background-color</code> property of the <code>blue</code> and <
 // solution required
 ```
 </section>
-<br><hr># 27. Applied Visual Design
+<hr>
+
+# 27. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8078,7 +8272,9 @@ Change the <code>background-color</code> property of the <code>orange</code>, <c
 // solution required
 ```
 </section>
-<br><hr># 28. Applied Visual Design
+<hr>
+
+# 28. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8151,7 +8347,9 @@ This page will use a shade of teal (<code>#09A7A1</code>) as the dominant color,
 // solution required
 ```
 </section>
-<br><hr># 29. Applied Visual Design
+<hr>
+
+# 29. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8218,7 +8416,9 @@ Change the <code>background-color</code> of each <code>div</code> element based 
 // solution required
 ```
 </section>
-<br><hr># 30. Applied Visual Design
+<hr>
+
+# 30. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8296,7 +8496,9 @@ var code = "nav {background-color: hsl(180, 80%, 25%);}"
 ```
 
 </section>
-<br><hr># 31. Applied Visual Design
+<hr>
+
+# 31. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8351,7 +8553,9 @@ var code = "<style> div{border-radius: 20px; width: 70%; height: 400px; margin: 
 ```
 
 </section>
-<br><hr># 32. Applied Visual Design
+<hr>
+
+# 32. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8412,7 +8616,9 @@ var code = "background: repeating-linear-gradient(45deg, yellow 0px, yellow 40px
 ```
 
 </section>
-<br><hr># 33. Applied Visual Design
+<hr>
+
+# 33. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8454,7 +8660,9 @@ var code = "body {background: url('https://i.imgur.com/MJAkxbh.png')}"
 ```
 
 </section>
-<br><hr># 34. Applied Visual Design
+<hr>
+
+# 34. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8518,7 +8726,9 @@ var code = "#ball2 {left: 65%; transform: scale(1.5);}"
 ```
 
 </section>
-<br><hr># 35. Applied Visual Design
+<hr>
+
+# 35. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8576,7 +8786,9 @@ var code = "div:hover {transform: scale(1.1);}"
 ```
 
 </section>
-<br><hr># 36. Applied Visual Design
+<hr>
+
+# 36. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8632,7 +8844,9 @@ var code = "#bottom {background-color: blue; transform: skewX(24deg);}"
 ```
 
 </section>
-<br><hr># 37. Applied Visual Design
+<hr>
+
+# 37. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8687,7 +8901,9 @@ var code = "#top {background-color: red; transform: skewY(-10deg);}"
 ```
 
 </section>
-<br><hr># 38. Applied Visual Design
+<hr>
+
+# 38. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8746,7 +8962,9 @@ var code = ".center {background-color: transparent; border-radius: 50%; box-shad
 ```
 
 </section>
-<br><hr># 39. Applied Visual Design
+<hr>
+
+# 39. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8856,7 +9074,9 @@ Finally, in the <code>heart::before</code> selector, set its <code>content</code
 ```
 
 </section>
-<br><hr># 40. Applied Visual Design
+<hr>
+
+# 40. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8915,7 +9135,9 @@ Create an animation for the element with the id <code>rect</code>, by setting th
 // solution required
 ```
 </section>
-<br><hr># 41. Applied Visual Design
+<hr>
+
+# 41. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -8970,7 +9192,9 @@ Use CSS <code>@keyframes</code> to change the <code>background-color</code> of t
 // solution required
 ```
 </section>
-<br><hr># 42. Applied Visual Design
+<hr>
+
+# 42. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9030,7 +9254,9 @@ var code = "button:hover {animation-name: background-color; animation-duration: 
 ```
 
 </section>
-<br><hr># 43. Applied Visual Design
+<hr>
+
+# 43. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9104,7 +9330,9 @@ var code = "@keyframes rainbow {0% {background-color: blue; top: 0px; left: 0px;
 ```
 
 </section>
-<br><hr># 44. Applied Visual Design
+<hr>
+
+# 44. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9170,7 +9398,9 @@ var code = "@keyframes fade {50% { left: 60%; opacity: 0.1;}}"
 ```
 
 </section>
-<br><hr># 45. Applied Visual Design
+<hr>
+
+# 45. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9240,7 +9470,9 @@ To keep the ball bouncing on the right on a continuous loop, change the <code>an
 // solution required
 ```
 </section>
-<br><hr># 46. Applied Visual Design
+<hr>
+
+# 46. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9345,7 +9577,9 @@ Keep the heart beating by adding the <code>animation-iteration-count</code> prop
 // solution required
 ```
 </section>
-<br><hr># 47. Applied Visual Design
+<hr>
+
+# 47. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9435,7 +9669,9 @@ var code = "@keyframes twinkle-1 {50% {transform: scale(0.5); opacity: 0.5;}}"
 ```
 
 </section>
-<br><hr># 48. Applied Visual Design
+<hr>
+
+# 48. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9524,7 +9760,9 @@ Set the <code>animation-duration</code> of the elements with the classes <code>s
 // solution required
 ```
 </section>
-<br><hr># 49. Applied Visual Design
+<hr>
+
+# 49. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9599,7 +9837,9 @@ For the elements with id of <code>ball1</code> and <code>ball2</code>, add an <c
 // solution required
 ```
 </section>
-<br><hr># 50. Applied Visual Design
+<hr>
+
+# 50. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9677,7 +9917,9 @@ For the element with the id of <code>ball1</code>, change the value of the <code
 // solution required
 ```
 </section>
-<br><hr># 51. Applied Visual Design
+<hr>
+
+# 51. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9747,7 +9989,9 @@ To see the effect of this Bezier curve in action, change the <code>animation-tim
 // solution required
 ```
 </section>
-<br><hr># 52. Applied Visual Design
+<hr>
+
+# 52. Applied Visual Design
 
 ## Description
 <section id='description'>
@@ -9822,7 +10066,9 @@ Change value of the <code>animation-timing-function</code> of the element with t
 // solution required
 ```
 </section>
-<br><hr># 1. Applied Accessibility
+<hr>
+
+# 1. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -9863,7 +10109,9 @@ Camper Cat happens to be both a coding ninja and an actual ninja, who is buildin
 <img src="doingKarateWow.jpeg" alt="Someone doing karate">
 ```
 </section>
-<br><hr># 2. Applied Accessibility
+<hr>
+
+# 2. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -9914,7 +10162,9 @@ Camper Cat has coded a skeleton page for the blog part of his website. He's plan
 // solution required
 ```
 </section>
-<br><hr># 3. Applied Accessibility
+<hr>
+
+# 3. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -9968,7 +10218,9 @@ Camper Cat wants a page on his site dedicated to becoming a ninja. Help him fix 
 // solution required
 ```
 </section>
-<br><hr># 4. Applied Accessibility
+<hr>
+
+# 4. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10013,7 +10265,9 @@ Camper Cat has some big ideas for his ninja weapons page. Help him set up his ma
 // solution required
 ```
 </section>
-<br><hr># 5. Applied Accessibility
+<hr>
+
+# 5. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10073,7 +10327,9 @@ Camper Cat used <code>article</code> tags to wrap the posts on his blog page, bu
 // solution required
 ```
 </section>
-<br><hr># 6. Applied Accessibility
+<hr>
+
+# 6. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10135,7 +10391,9 @@ Camper Cat is writing some great articles about ninja training, and wants to add
 // solution required
 ```
 </section>
-<br><hr># 7. Applied Accessibility
+<hr>
+
+# 7. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10202,7 +10460,9 @@ Camper Cat included navigation links at the top of his training page, but wrappe
 // solution required
 ```
 </section>
-<br><hr># 8. Applied Accessibility
+<hr>
+
+# 8. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10271,7 +10531,9 @@ Camper Cat's training page is making good progress. Change the <code>div</code> 
 // solution required
 ```
 </section>
-<br><hr># 9. Applied Accessibility
+<hr>
+
+# 9. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10322,7 +10584,9 @@ Time to take a break from Camper Cat and meet fellow camper Zersiax (@zersiax), 
 // solution required
 ```
 </section>
-<br><hr># 10. Applied Accessibility
+<hr>
+
+# 10. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10401,7 +10665,9 @@ Camper Cat is hard at work creating a stacked bar chart showing the amount of ti
 // solution required
 ```
 </section>
-<br><hr># 11. Applied Accessibility
+<hr>
+
+# 11. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10472,7 +10738,9 @@ Camper Cat expects a lot of interest in his thoughtful blog posts and wants to i
 // solution required
 ```
 </section>
-<br><hr># 12. Applied Accessibility
+<hr>
+
+# 12. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10554,7 +10822,9 @@ Camper Cat wants information about the ninja level of his users when they sign u
 // solution required
 ```
 </section>
-<br><hr># 13. Applied Accessibility
+<hr>
+
+# 13. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10632,7 +10902,9 @@ Camper Cat is setting up a Mortal Kombat tournament and wants to ask his competi
 </body>
 ```
 </section>
-<br><hr># 14. Applied Accessibility
+<hr>
+
+# 14. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10700,7 +10972,9 @@ Camper Cat's Mortal Kombat survey results are in! Wrap a <code>time</code> tag a
 // solution required
 ```
 </section>
-<br><hr># 15. Applied Accessibility
+<hr>
+
+# 15. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10827,7 +11101,9 @@ Camper Cat created a really cool stacked bar chart for his training page, and pu
 // solution required
 ```
 </section>
-<br><hr># 16. Applied Accessibility
+<hr>
+
+# 16. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10881,7 +11157,9 @@ Camper Cat's choice of light gray text on a white background for his recent blog
 // solution required
 ```
 </section>
-<br><hr># 17. Applied Accessibility
+<hr>
+
+# 17. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10939,7 +11217,9 @@ var code = "body {color: hsl(0, 55%, 15%); background-color: hsl(120, 25%, 55%);
 ```
 
 </section>
-<br><hr># 18. Applied Accessibility
+<hr>
+
+# 18. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -10992,7 +11272,9 @@ Camper Cat is testing different styles for an important button, but the yellow (
 // solution required
 ```
 </section>
-<br><hr># 19. Applied Accessibility
+<hr>
+
+# 19. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -11037,7 +11319,9 @@ The link text that Camper Cat is using is not very descriptive without the surro
 // solution required
 ```
 </section>
-<br><hr># 21. Applied Accessibility
+<hr>
+
+# 21. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -11122,7 +11406,9 @@ Camper Cat created a new survey to collect information about his users. He knows
 // solution required
 ```
 </section>
-<br><hr># 22. Applied Accessibility
+<hr>
+
+# 22. Applied Accessibility
 
 ## Description
 <section id='description'>
@@ -11193,7 +11479,9 @@ Camper Cat has a search field on his Inspirational Quotes page that he plans to 
 // solution required
 ```
 </section>
-<br><hr># 1. Responsive Web Design Principles
+<hr>
+
+# 1. Responsive Web Design Principles
 
 ## Description
 <section id='description'>
@@ -11257,7 +11545,9 @@ Add a media query, so that the <code>p</code> tag has a <code>font-size</code> o
 ```
 
 </section>
-<br><hr># 2. Responsive Web Design Principles
+<hr>
+
+# 2. Responsive Web Design Principles
 
 ## Description
 <section id='description'>
@@ -11301,7 +11591,9 @@ Add style rules for the <code>img</code> tag to make it responsive to the size o
 // solution required
 ```
 </section>
-<br><hr># 3. Responsive Web Design Principles
+<hr>
+
+# 3. Responsive Web Design Principles
 
 ## Description
 <section id='description'>
@@ -11345,7 +11637,9 @@ Set the <code>width</code> and <code>height</code> of the <code>img</code> tag t
 // solution required
 ```
 </section>
-<br><hr># 4. Responsive Web Design Principles
+<hr>
+
+# 4. Responsive Web Design Principles
 
 ## Description
 <section id='description'>
@@ -11392,7 +11686,9 @@ var code = "h2 {width: 80vw;} p {width: 75vmin;}"
 ```
 
 </section>
-<br><hr># 1. CSS Flexbox
+<hr>
+
+# 1. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -11450,7 +11746,9 @@ Add the CSS property <code>display</code> to <code>#box-container</code> and set
 // solution required
 ```
 </section>
-<br><hr># 2. CSS Flexbox
+<hr>
+
+# 2. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -11664,7 +11962,9 @@ Add the CSS property <code>display: flex</code> to all of the following items - 
 ```
 
 </section>
-<br><hr># 3. CSS Flexbox
+<hr>
+
+# 3. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -11724,7 +12024,9 @@ Add the CSS property <code>flex-direction</code> to the <code>#box-container</co
 // solution required
 ```
 </section>
-<br><hr># 4. CSS Flexbox
+<hr>
+
+# 4. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -11852,7 +12154,9 @@ var code = "header {flex-direction: row;} footer {flex-direction: row;}"
 ```
 
 </section>
-<br><hr># 5. CSS Flexbox
+<hr>
+
+# 5. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -11910,7 +12214,9 @@ Add the CSS property <code>flex-direction</code> to the <code>#box-container</co
 // solution required
 ```
 </section>
-<br><hr># 6. CSS Flexbox
+<hr>
+
+# 6. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12033,7 +12339,9 @@ Add the CSS property <code>flex-direction</code> to the header's <code>.profile-
 // solution required
 ```
 </section>
-<br><hr># 7. CSS Flexbox
+<hr>
+
+# 7. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12097,7 +12405,9 @@ An example helps show this property in action. Add the CSS property <code>justif
 // solution required
 ```
 </section>
-<br><hr># 8. CSS Flexbox
+<hr>
+
+# 8. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12223,7 +12533,9 @@ var code = "header .profile-name {display: flex; flex-direction: column; justify
 ```
 
 </section>
-<br><hr># 9. CSS Flexbox
+<hr>
+
+# 9. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12287,7 +12599,9 @@ An example helps show this property in action. Add the CSS property <code>align-
 // solution required
 ```
 </section>
-<br><hr># 10. CSS Flexbox
+<hr>
+
+# 10. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12412,7 +12726,9 @@ Add the CSS property <code>align-items</code> to the header's <code>.follow-btn<
 // solution required
 ```
 </section>
-<br><hr># 11. CSS Flexbox
+<hr>
+
+# 11. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12498,7 +12814,9 @@ The current layout has too many boxes for one row. Add the CSS property <code>fl
 // solution required
 ```
 </section>
-<br><hr># 12. CSS Flexbox
+<hr>
+
+# 12. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12559,7 +12877,9 @@ Add the CSS property <code>flex-shrink</code> to both <code>#box-1</code> and <c
 // solution required
 ```
 </section>
-<br><hr># 13. CSS Flexbox
+<hr>
+
+# 13. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12618,7 +12938,9 @@ Add the CSS property <code>flex-grow</code> to both <code>#box-1</code> and <cod
 // solution required
 ```
 </section>
-<br><hr># 14. CSS Flexbox
+<hr>
+
+# 14. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12700,7 +13022,9 @@ Set the initial size of the boxes using <code>flex-basis</code>. Add the CSS pro
 ```
 
 </section>
-<br><hr># 15. CSS Flexbox
+<hr>
+
+# 15. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12760,7 +13084,9 @@ These values will cause <code>#box-1</code> to grow to fill the extra space at t
 // solution required
 ```
 </section>
-<br><hr># 16. CSS Flexbox
+<hr>
+
+# 16. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12819,7 +13145,9 @@ Add the CSS property <code>order</code> to both <code>#box-1</code> and <code>#b
 // solution required
 ```
 </section>
-<br><hr># 17. CSS Flexbox
+<hr>
+
+# 17. CSS Flexbox
 
 ## Description
 <section id='description'>
@@ -12879,7 +13207,9 @@ Add the CSS property <code>align-self</code> to both <code>#box-1</code> and <co
 // solution required
 ```
 </section>
-<br><hr># 1. CSS Grid
+<hr>
+
+# 1. CSS Grid
 
 ## Description
 <section id='description'>
@@ -12942,7 +13272,9 @@ var code = ".container {display: grid;}"
 ```
 
 </section>
-<br><hr># 2. CSS Grid
+<hr>
+
+# 2. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13008,7 +13340,9 @@ var code = ".container {grid-template-columns: 100px 100px 100px;}"
 ```
 
 </section>
-<br><hr># 3. CSS Grid
+<hr>
+
+# 3. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13072,7 +13406,9 @@ var code = ".container {grid-template-rows: 50px 50px;}"
 ```
 
 </section>
-<br><hr># 4. CSS Grid
+<hr>
+
+# 4. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13143,7 +13479,9 @@ var code = ".container {grid-template-columns: 1fr 100px 2fr;}"
 ```
 
 </section>
-<br><hr># 5. CSS Grid
+<hr>
+
+# 5. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13211,7 +13549,9 @@ var code = ".container {grid-column-gap: 20px;}"
 ```
 
 </section>
-<br><hr># 6. CSS Grid
+<hr>
+
+# 6. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13277,7 +13617,9 @@ var code = ".container {grid-row-gap: 5px;}"
 ```
 
 </section>
-<br><hr># 7. CSS Grid
+<hr>
+
+# 7. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13342,7 +13684,9 @@ var code = ".container {grid-gap: 10px 20px;}"
 ```
 
 </section>
-<br><hr># 8. CSS Grid
+<hr>
+
+# 8. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13419,7 +13763,9 @@ var code = ".item5 {grid-column: 2 / 4;}"
 ```
 
 </section>
-<br><hr># 9. CSS Grid
+<hr>
+
+# 9. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13490,7 +13836,9 @@ var code = ".item5 {grid-row: 2 / 4;}"
 ```
 
 </section>
-<br><hr># 10. CSS Grid
+<hr>
+
+# 10. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13564,7 +13912,9 @@ var code = ".item2 {justify-self: center;}"
 ```
 
 </section>
-<br><hr># 11. CSS Grid
+<hr>
+
+# 11. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13635,7 +13985,9 @@ var code = ".item3 {align-self: end;}"
 ```
 
 </section>
-<br><hr># 12. CSS Grid
+<hr>
+
+# 12. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13702,7 +14054,9 @@ var code = ".container {justify-items: center;}"
 ```
 
 </section>
-<br><hr># 13. CSS Grid
+<hr>
+
+# 13. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13769,7 +14123,9 @@ var code = ".container {align-items: end;}"
 ```
 
 </section>
-<br><hr># 14. CSS Grid
+<hr>
+
+# 14. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13872,7 +14228,9 @@ Place the area template so that the cell labeled <code>advert</code> becomes an 
 ```
 
 </section>
-<br><hr># 15. CSS Grid
+<hr>
+
+# 15. CSS Grid
 
 ## Description
 <section id='description'>
@@ -13948,7 +14306,9 @@ var code = ".item5 {grid-area: footer;}"
 ```
 
 </section>
-<br><hr># 16. CSS Grid
+<hr>
+
+# 16. CSS Grid
 
 ## Description
 <section id='description'>
@@ -14022,7 +14382,9 @@ var code = ".item5 {grid-area: 3/1/4/4;}"
 ```
 
 </section>
-<br><hr># 17. CSS Grid
+<hr>
+
+# 17. CSS Grid
 
 ## Description
 <section id='description'>
@@ -14097,7 +14459,9 @@ var code = ".container {grid-template-columns: repeat(3, 1fr);}"
 ```
 
 </section>
-<br><hr># 18. CSS Grid
+<hr>
+
+# 18. CSS Grid
 
 ## Description
 <section id='description'>
@@ -14166,7 +14530,9 @@ var code = ".container {grid-template-columns: repeat(3, minmax(90px, 1fr));}"
 ```
 
 </section>
-<br><hr># 19. CSS Grid
+<hr>
+
+# 19. CSS Grid
 
 ## Description
 <section id='description'>
@@ -14254,7 +14620,9 @@ var code = ".container {grid-template-columns: repeat(auto-fill, minmax(60px, 1f
 ```
 
 </section>
-<br><hr># 20. CSS Grid
+<hr>
+
+# 20. CSS Grid
 
 ## Description
 <section id='description'>
@@ -14340,7 +14708,9 @@ var code = ".container {grid-template-columns: repeat( auto-fill, minmax(60px, 1
 ```
 
 </section>
-<br><hr># 21. CSS Grid
+<hr>
+
+# 21. CSS Grid
 
 ## Description
 <section id='description'>
@@ -14512,7 +14882,9 @@ When the viewport width is <code>400px</code> or more, make the header area occu
 ```
 
 </section>
-<br><hr># 22. CSS Grid
+<hr>
+
+# 22. CSS Grid
 
 ## Description
 <section id='description'>
@@ -14608,7 +14980,9 @@ var code = ".item3 {grid-template-columns: auto 1fr; display: grid;}"
 ```
 
 </section>
-<br><hr># 1. Responsive Web Design Projects
+<hr>
+
+# 1. Responsive Web Design Projects
 
 ## Description
 <section id='description'>
@@ -14648,7 +15022,9 @@ Remember to use the <a href='https://forum.freecodecamp.org/t/how-to-get-help-wh
 // solution required
 ```
 </section>
-<br><hr># 2. Responsive Web Design Projects
+<hr>
+
+# 2. Responsive Web Design Projects
 
 ## Description
 <section id='description'>
@@ -14695,7 +15071,9 @@ Remember to use the <a href='https://forum.freecodecamp.org/t/how-to-get-help-wh
 // solution required
 ```
 </section>
-<br><hr># 3. Responsive Web Design Projects
+<hr>
+
+# 3. Responsive Web Design Projects
 
 ## Description
 <section id='description'>
@@ -14741,7 +15119,9 @@ Remember to use the <a href='https://forum.freecodecamp.org/t/how-to-get-help-wh
 // solution required
 ```
 </section>
-<br><hr># 4. Responsive Web Design Projects
+<hr>
+
+# 4. Responsive Web Design Projects
 
 ## Description
 <section id='description'>
@@ -14787,7 +15167,9 @@ Remember to use the <a href='https://forum.freecodecamp.org/t/how-to-get-help-wh
 // solution required
 ```
 </section>
-<br><hr># 5. Responsive Web Design Projects
+<hr>
+
+# 5. Responsive Web Design Projects
 
 ## Description
 <section id='description'>
@@ -14829,4 +15211,5 @@ Remember to use the <a href='https://forum.freecodecamp.org/t/how-to-get-help-wh
 // solution required
 ```
 </section>
-<br><hr>
+<hr>
+
