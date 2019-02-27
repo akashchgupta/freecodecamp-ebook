@@ -46,6 +46,7 @@ To pass the test on this challenge, change your <code>h1</code> element's text t
 ```
 </section>
 <hr>
+
 # 2. Headline with the h2 Element
 
 ## Description
@@ -1663,6 +1664,7 @@ Change your <code>h2</code> element's style so that its text color is red.
 
 </section>
 <hr>
+
 # 2. Use CSS Selectors to Style Elements
 
 ## Description
@@ -6458,6 +6460,7 @@ Align the <code>h4</code> tag's text, which says "Google", to the center. Then j
 ```
 </section>
 <hr>
+
 # 2. Adjust the Width of an Element Using the width Property
 
 ## Description
@@ -10111,6 +10114,7 @@ Camper Cat happens to be both a coding ninja and an actual ninja, who is buildin
 ```
 </section>
 <hr>
+
 # 2. Know When Alt Text Should be Left Blank
 
 ## Description
@@ -11547,6 +11551,7 @@ Add a media query, so that the <code>p</code> tag has a <code>font-size</code> o
 
 </section>
 <hr>
+
 # 2. Make an Image Responsive
 
 ## Description
@@ -11748,6 +11753,7 @@ Add the CSS property <code>display</code> to <code>#box-container</code> and set
 ```
 </section>
 <hr>
+
 # 2. Add Flex Superpowers to the Tweet Embed
 
 ## Description
@@ -13274,6 +13280,7 @@ var code = ".container {display: grid;}"
 
 </section>
 <hr>
+
 # 2. Add Columns with grid-template-columns
 
 ## Description
@@ -15024,6 +15031,7 @@ Remember to use the <a href='https://forum.freecodecamp.org/t/how-to-get-help-wh
 ```
 </section>
 <hr>
+
 # 2. Build a Survey Form
 
 ## Description
