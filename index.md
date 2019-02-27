@@ -1,5 +1,5 @@
 
-# 1. Basic HTML and HTML5
+# 1. Say Hello to HTML Elements
 
 ## Description
 <section id='description'>
@@ -46,7 +46,7 @@ To pass the test on this challenge, change your <code>h1</code> element's text t
 </section>
 <hr>
 
-# 2. Basic HTML and HTML5
+# 2. Headline with the h2 Element
 
 ## Description
 <section id='description'>
@@ -91,7 +91,7 @@ Add an <code>h2</code> tag that says "CatPhotoApp" to create a second HTML <code
 
 <hr>
 
-# 3. Basic HTML and HTML5
+# 3. Inform with the Paragraph Element
 
 ## Description
 <section id='description'>
@@ -134,7 +134,7 @@ As a convention, all HTML tags are written in lowercase, for example <code>&#60;
 </section>
 <hr>
 
-# 4. Basic HTML and HTML5
+# 4. Fill in the Blank with Placeholder Text
 
 ## Description
 <section id='description'>
@@ -178,7 +178,7 @@ Replace the text inside your <code>p</code> element with the first few words of 
 </section>
 <hr>
 
-# 5. Basic HTML and HTML5
+# 5. Uncomment HTML
 
 ## Description
 <section id='description'>
@@ -228,7 +228,7 @@ Uncomment your <code>h1</code>, <code>h2</code> and <code>p</code> elements.
 </section>
 <hr>
 
-# 6. Basic HTML and HTML5
+# 6. Comment out HTML
 
 ## Description
 <section id='description'>
@@ -276,7 +276,7 @@ Comment out your <code>h1</code> element and your <code>p</code> element, but no
 </section>
 <hr>
 
-# 7. Basic HTML and HTML5
+# 7. Delete HTML Elements
 
 ## Description
 <section id='description'>
@@ -321,7 +321,7 @@ var code = "<h2>CatPhotoApp</h2><p>Kitty ipsum dolor sit amet, shed everywhere s
 </section>
 <hr>
 
-# 8. Basic HTML and HTML5
+# 8. Introduction to HTML5 Elements
 
 ## Description
 <section id='description'>
@@ -365,7 +365,7 @@ Wrap the paragraphs with an opening and closing <code>main</code> tag.
 </section>
 <hr>
 
-# 9. Basic HTML and HTML5
+# 9. Add Images to Your Website
 
 ## Description
 <section id='description'>
@@ -427,7 +427,7 @@ Finally don't forget to give your image an <code>alt</code> text.
 </section>
 <hr>
 
-# 10. Basic HTML and HTML5
+# 10. Link to External Pages with Anchor Elements
 
 ## Description
 <section id='description'>
@@ -477,7 +477,7 @@ Create an <code>a</code> element that links to <code>http://freecatphotoapp.com<
 </section>
 <hr>
 
-# 11. Basic HTML and HTML5
+# 11. Link to Internal Sections of a Page with Anchor Elements
 
 ## Description
 <section id='description'>
@@ -548,7 +548,7 @@ Then add an <code>id</code> attribute with a value of "footer" to the <code>&lt;
 </section>
 <hr>
 
-# 12. Basic HTML and HTML5
+# 12. Nest an Anchor Element within a Paragraph
 
 ## Description
 <section id='description'>
@@ -603,7 +603,7 @@ Now nest the existing <code>a</code> element within a new <code>p</code> element
 </section>
 <hr>
 
-# 13. Basic HTML and HTML5
+# 13. Make Dead Links Using the Hash Symbol
 
 ## Description
 <section id='description'>
@@ -651,7 +651,7 @@ For example: <code>href="#"</code>
 </section>
 <hr>
 
-# 14. Basic HTML and HTML5
+# 14. Turn an Image into a Link
 
 ## Description
 <section id='description'>
@@ -701,7 +701,7 @@ Once you've done this, hover over your image with your cursor. Your cursor's nor
 </section>
 <hr>
 
-# 15. Basic HTML and HTML5
+# 15. Create a Bulleted Unordered List
 
 ## Description
 <section id='description'>
@@ -751,7 +751,7 @@ Remove the last two <code>p</code> elements and create an unordered list of thre
 </section>
 <hr>
 
-# 16. Basic HTML and HTML5
+# 16. Create an Ordered List
 
 ## Description
 <section id='description'>
@@ -807,7 +807,7 @@ Create an ordered list of the top 3 things cats hate the most.
 </section>
 <hr>
 
-# 17. Basic HTML and HTML5
+# 17. Create a Text Field
 
 ## Description
 <section id='description'>
@@ -891,7 +891,7 @@ Create an <code>input</code> element of type <code>text</code> below your lists.
 </section>
 <hr>
 
-# 18. Basic HTML and HTML5
+# 18. Add Placeholder Text to a Text Field
 
 ## Description
 <section id='description'>
@@ -950,7 +950,7 @@ Set the <code>placeholder</code> value of your text <code>input</code> to "cat p
 </section>
 <hr>
 
-# 19. Basic HTML and HTML5
+# 19. Create a Form Element
 
 ## Description
 <section id='description'>
@@ -1009,7 +1009,7 @@ Nest your text field inside a <code>form</code> element, and add the <code>actio
 </section>
 <hr>
 
-# 20. Basic HTML and HTML5
+# 20. Add a Submit Button to a Form
 
 ## Description
 <section id='description'>
@@ -1090,7 +1090,7 @@ Add a button as the last element of your <code>form</code> element with a type o
 </section>
 <hr>
 
-# 21. Basic HTML and HTML5
+# 21. Use HTML5 to Require a Field
 
 ## Description
 <section id='description'>
@@ -1152,7 +1152,7 @@ Then try to submit the form without inputting any text. See how your HTML5 form 
 </section>
 <hr>
 
-# 22. Basic HTML and HTML5
+# 22. Create a Set of Radio Buttons
 
 ## Description
 <section id='description'>
@@ -1219,7 +1219,7 @@ Add a pair of radio buttons to your form, each nested in its own <code>label</co
 </section>
 <hr>
 
-# 23. Basic HTML and HTML5
+# 23. Create a Set of Checkboxes
 
 ## Description
 <section id='description'>
@@ -1287,7 +1287,7 @@ Add to your form a set of three checkboxes. Each checkbox should be nested withi
 </section>
 <hr>
 
-# 24. Basic HTML and HTML5
+# 24. Check Radio Buttons and Checkboxes by Default
 
 ## Description
 <section id='description'>
@@ -1382,7 +1382,7 @@ Set the first of your <code>radio button</code>s and the first of your <code>che
 </section>
 <hr>
 
-# 25. Basic HTML and HTML5
+# 25. Nest Many Elements within a Single div Element
 
 ## Description
 <section id='description'>
@@ -1451,7 +1451,7 @@ Hint: Try putting your opening <code>div</code> tag above your "Things cats love
 </section>
 <hr>
 
-# 26. Basic HTML and HTML5
+# 26. Declare the Doctype of an HTML Document
 
 ## Description
 <section id='description'>
@@ -1501,7 +1501,7 @@ Add a <code>DOCTYPE</code> tag for HTML5 to the top of the blank HTML document i
 </section>
 <hr>
 
-# 27. Basic HTML and HTML5
+# 27. Define the Head and Body of an HTML Document
 
 ## Description
 <section id='description'>
@@ -1559,7 +1559,7 @@ Edit the markup so there's a <code>head</code> and a <code>body</code>. The <cod
 </section>
 <hr>
 
-# 1. Basic CSS
+# 1. Change the Color of Text
 
 ## Description
 <section id='description'>
@@ -1663,7 +1663,7 @@ Change your <code>h2</code> element's style so that its text color is red.
 </section>
 <hr>
 
-# 2. Basic CSS
+# 2. Use CSS Selectors to Style Elements
 
 ## Description
 <section id='description'>
@@ -1738,7 +1738,7 @@ Delete your <code>h2</code> element's style attribute, and instead create a CSS 
 </section>
 <hr>
 
-# 3. Basic CSS
+# 3. Use a CSS Class to Style an Element
 
 ## Description
 <section id='description'>
@@ -1819,7 +1819,7 @@ Give your <code>h2</code> element the <code>class</code> attribute with a value 
 </section>
 <hr>
 
-# 4. Basic CSS
+# 4. Style Multiple Elements with a CSS Class
 
 ## Description
 <section id='description'>
@@ -1893,7 +1893,7 @@ Classes allow you to use the same CSS styles on multiple HTML elements. You can 
 </section>
 <hr>
 
-# 5. Basic CSS
+# 5. Change the Font Size of an Element
 
 ## Description
 <section id='description'>
@@ -1968,7 +1968,7 @@ Inside the same <code>&#60;style&#62;</code> tag that contains your <code>red-te
 </section>
 <hr>
 
-# 6. Basic CSS
+# 6. Set the Font Family of an Element
 
 ## Description
 <section id='description'>
@@ -2048,7 +2048,7 @@ Make all of your <code>p</code> elements use the <code>monospace</code> font.
 </section>
 <hr>
 
-# 7. Basic CSS
+# 7. Import a Google Font
 
 ## Description
 <section id='description'>
@@ -2134,7 +2134,7 @@ Create a <code>font-family</code> CSS rule that uses the <code>Lobster</code> fo
 </section>
 <hr>
 
-# 8. Basic CSS
+# 8. Specify How Fonts Should Degrade
 
 ## Description
 <section id='description'>
@@ -2224,7 +2224,7 @@ In the last challenge, you imported the <code>Lobster</code> font using the <cod
 </section>
 <hr>
 
-# 9. Basic CSS
+# 9. Size Your Images
 
 ## Description
 <section id='description'>
@@ -2361,7 +2361,7 @@ Create a class called <code>smaller-image</code> and use it to resize the image 
 </section>
 <hr>
 
-# 10. Basic CSS
+# 10. Add Borders Around Your Elements
 
 ## Description
 <section id='description'>
@@ -2508,7 +2508,7 @@ Remember that you can apply multiple classes to an element using its <code>class
 </section>
 <hr>
 
-# 11. Basic CSS
+# 11. Add Rounded Corners with border-radius
 
 ## Description
 <section id='description'>
@@ -2660,7 +2660,7 @@ Note: this challenge allows for multiple possible solutions. For example, you ma
 </section>
 <hr>
 
-# 12. Basic CSS
+# 12. Make Circular Images with a border-radius
 
 ## Description
 <section id='description'>
@@ -2755,7 +2755,7 @@ Give your cat photo a <code>border-radius</code> of <code>50%</code>.
 </section>
 <hr>
 
-# 13. Basic CSS
+# 13. Give a Background Color to a div Element
 
 ## Description
 <section id='description'>
@@ -2852,7 +2852,7 @@ Create a class called <code>silver-background</code> with the <code>background-c
 </section>
 <hr>
 
-# 14. Basic CSS
+# 14. Set the id of an Element
 
 ## Description
 <section id='description'>
@@ -2955,7 +2955,7 @@ Give your <code>form</code> element the id <code>cat-photo-form</code>.
 </section>
 <hr>
 
-# 15. Basic CSS
+# 15. Use an id Attribute to Style an Element
 
 ## Description
 <section id='description'>
@@ -3058,7 +3058,7 @@ Try giving your form, which now has the <code>id</code> attribute of <code>cat-p
 </section>
 <hr>
 
-# 16. Basic CSS
+# 16. Adjust the Padding of an Element
 
 ## Description
 <section id='description'>
@@ -3136,7 +3136,7 @@ Change the <code>padding</code> of your blue box to match that of your red box.
 </section>
 <hr>
 
-# 17. Basic CSS
+# 17. Adjust the Margin of an Element
 
 ## Description
 <section id='description'>
@@ -3250,7 +3250,7 @@ Change the <code>margin</code> of the blue box to match that of the red box.
 </section>
 <hr>
 
-# 18. Basic CSS
+# 18. Add a Negative Margin to an Element
 
 ## Description
 <section id='description'>
@@ -3363,7 +3363,7 @@ Change the <code>margin</code> of the blue box to <code>-15px</code>, so it fill
 </section>
 <hr>
 
-# 19. Basic CSS
+# 19. Add Different Padding to Each Side of an Element
 
 ## Description
 <section id='description'>
@@ -3439,7 +3439,7 @@ Give the blue box a <code>padding</code> of <code>40px</code> on its top and lef
 </section>
 <hr>
 
-# 20. Basic CSS
+# 20. Add Different Margins to Each Side of an Element
 
 ## Description
 <section id='description'>
@@ -3556,7 +3556,7 @@ Give the blue box a <code>margin</code> of <code>40px</code> on its top and left
 </section>
 <hr>
 
-# 21. Basic CSS
+# 21. Use Clockwise Notation to Specify the Padding of an Element
 
 ## Description
 <section id='description'>
@@ -3630,7 +3630,7 @@ Use Clockwise Notation to give the ".blue-box" class a <code>padding</code> of <
 </section>
 <hr>
 
-# 22. Basic CSS
+# 22. Use Clockwise Notation to Specify the Margin of an Element
 
 ## Description
 <section id='description'>
@@ -3739,7 +3739,7 @@ Use <code>Clockwise Notation</code> to give the element with the <code>blue-box<
 </section>
 <hr>
 
-# 23. Basic CSS
+# 23. Use Attribute Selectors to Style Elements
 
 ## Description
 <section id='description'>
@@ -3841,7 +3841,7 @@ Using the <code>type</code> attribute selector, try to give the checkboxes in Ca
 </section>
 <hr>
 
-# 24. Basic CSS
+# 24. Understand Absolute versus Relative Units
 
 ## Description
 <section id='description'>
@@ -3916,7 +3916,7 @@ Add a <code>padding</code> property to the element with class <code>red-box</cod
 </section>
 <hr>
 
-# 25. Basic CSS
+# 25. Style the HTML Body Element
 
 ## Description
 <section id='description'>
@@ -3959,7 +3959,7 @@ We can do this by adding the following to our <code>style</code> element:
 </section>
 <hr>
 
-# 26. Basic CSS
+# 26. Inherit Styles from the Body Element
 
 ## Description
 <section id='description'>
@@ -4005,7 +4005,7 @@ Finally, give your <code>body</code> element the font-family of <code>monospace<
 </section>
 <hr>
 
-# 27. Basic CSS
+# 27. Prioritize One Style Over Another
 
 ## Description
 <section id='description'>
@@ -4064,7 +4064,7 @@ Give your <code>h1</code> element the class of <code>pink-text</code>.
 </section>
 <hr>
 
-# 28. Basic CSS
+# 28. Override Styles in Subsequent CSS
 
 ## Description
 <section id='description'>
@@ -4118,7 +4118,7 @@ However, the order of the <code>class</code> declarations in the <code>&#60;styl
 </section>
 <hr>
 
-# 29. Basic CSS
+# 29. Override Class Declarations by Styling ID Attributes
 
 ## Description
 <section id='description'>
@@ -4176,7 +4176,7 @@ Note: It doesn't matter whether you declare this CSS above or below pink-text cl
 </section>
 <hr>
 
-# 30. Basic CSS
+# 30. Override Class Declarations with Inline Styles
 
 ## Description
 <section id='description'>
@@ -4233,7 +4233,7 @@ Leave the <code>blue-text</code> and <code>pink-text</code> classes on your <cod
 </section>
 <hr>
 
-# 31. Basic CSS
+# 31. Override All Other Styles by using Important
 
 ## Description
 <section id='description'>
@@ -4292,7 +4292,7 @@ An example of how to do this is:
 </section>
 <hr>
 
-# 32. Basic CSS
+# 32. Use Hex Code for Specific Colors
 
 ## Description
 <section id='description'>
@@ -4337,7 +4337,7 @@ Replace the word <code>black</code> in our <code>body</code> element's backgroun
 </section>
 <hr>
 
-# 33. Basic CSS
+# 33. Use Hex Code to Mix Colors
 
 ## Description
 <section id='description'>
@@ -4401,7 +4401,7 @@ Replace the color words in our <code>style</code> element with their correct hex
 </section>
 <hr>
 
-# 34. Basic CSS
+# 34. Use Abbreviated Hex Code
 
 ## Description
 <section id='description'>
@@ -4463,7 +4463,7 @@ Go ahead, try using the abbreviated hex codes to color the correct elements.
 </section>
 <hr>
 
-# 35. Basic CSS
+# 35. Use RGB values to Color Elements
 
 ## Description
 <section id='description'>
@@ -4513,7 +4513,7 @@ Let's replace the hex code in our <code>body</code> element's background color w
 </section>
 <hr>
 
-# 36. Basic CSS
+# 36. Use RGB to Mix Colors
 
 ## Description
 <section id='description'>
@@ -4594,7 +4594,7 @@ Replace the hex codes in our <code>style</code> element with their correct RGB v
 </section>
 <hr>
 
-# 37. Basic CSS
+# 37. Use CSS Variables to change several elements at once
 
 ## Description
 <section id='description'>
@@ -4834,7 +4834,7 @@ var code = ".penguin {--penguin-skin: gray; --penguin-belly: white; --penguin-be
 </section>
 <hr>
 
-# 38. Basic CSS
+# 38. Create a custom CSS Variable
 
 ## Description
 <section id='description'>
@@ -5073,7 +5073,7 @@ var code = ".penguin {--penguin-skin: gray;}"
 </section>
 <hr>
 
-# 39. Basic CSS
+# 39. Use a custom CSS Variable
 
 ## Description
 <section id='description'>
@@ -5325,7 +5325,7 @@ var code = ".penguin-top {background: var(--penguin-skin);} .penguin-bottom {bac
 </section>
 <hr>
 
-# 40. Basic CSS
+# 40. Attach a Fallback value to a CSS Variable
 
 ## Description
 <section id='description'>
@@ -5573,7 +5573,7 @@ var code = ".penguin-top {background: var(--pengiun-skin, black);} .penguin-bott
 </section>
 <hr>
 
-# 41. Basic CSS
+# 41. Improve Compatibility with Browser Fallbacks
 
 ## Description
 <section id='description'>
@@ -5626,7 +5626,7 @@ var code=".red-box {background: red; background: var(--red-color);}"
 </section>
 <hr>
 
-# 42. Basic CSS
+# 42. Cascading CSS variables
 
 ## Description
 <section id='description'>
@@ -5869,7 +5869,7 @@ var code = ":root {--penguin-belly: pink;}"
 </section>
 <hr>
 
-# 43. Basic CSS
+# 43. Change a variable for a specific area
 
 ## Description
 <section id='description'>
@@ -6113,7 +6113,7 @@ var code = ".penguin {--penguin-belly: white;}"
 </section>
 <hr>
 
-# 44. Basic CSS
+# 44. Use a media query to change a variable
 
 ## Description
 <section id='description'>
@@ -6383,7 +6383,7 @@ var code = "@media (max-width: 350px) {:root {--penguin-size: 200px; --penguin-s
 </section>
 <hr>
 
-# 1. Applied Visual Design
+# 1. Create Visual Balance Using the text-align Property
 
 ## Description
 <section id='description'>
@@ -6458,7 +6458,7 @@ Align the <code>h4</code> tag's text, which says "Google", to the center. Then j
 </section>
 <hr>
 
-# 2. Applied Visual Design
+# 2. Adjust the Width of an Element Using the width Property
 
 ## Description
 <section id='description'>
@@ -6564,7 +6564,7 @@ Add a <code>width</code> property to the entire card and set it to an absolute v
 </section>
 <hr>
 
-# 3. Applied Visual Design
+# 3. Adjust the Height of an Element Using the height Property
 
 ## Description
 <section id='description'>
@@ -6637,7 +6637,7 @@ Add a <code>height</code> property to the <code>h4</code> tag and set it to 25px
 </section>
 <hr>
 
-# 4. Applied Visual Design
+# 4. Use the strong Tag to Make Text Bold
 
 ## Description
 <section id='description'>
@@ -6712,7 +6712,7 @@ Wrap a <code>strong</code> tag around "Stanford University" inside the <code>p</
 </section>
 <hr>
 
-# 5. Applied Visual Design
+# 5. Use the u Tag to Underline Text
 
 ## Description
 <section id='description'>
@@ -6788,7 +6788,7 @@ Wrap the <code>u</code> tag only around the text "Ph.D. students".
 </section>
 <hr>
 
-# 6. Applied Visual Design
+# 6. Use the em Tag to Italicize Text
 
 ## Description
 <section id='description'>
@@ -6863,7 +6863,7 @@ Wrap an <code>em</code> tag around the contents of the paragraph tag to give it 
 </section>
 <hr>
 
-# 7. Applied Visual Design
+# 7. Use the s Tag to Strikethrough Text
 
 ## Description
 <section id='description'>
@@ -6975,7 +6975,7 @@ Wrap the <code>s</code> tag around "Google" inside the <code>h4</code> tag and t
 </section>
 <hr>
 
-# 8. Applied Visual Design
+# 8. Create a Horizontal Line Using the hr Element
 
 ## Description
 <section id='description'>
@@ -7052,7 +7052,7 @@ Add an <code>hr</code> tag underneath the <code>h4</code> which contains the car
 </section>
 <hr>
 
-# 9. Applied Visual Design
+# 9. Adjust the background-color Property of Text
 
 ## Description
 <section id='description'>
@@ -7134,7 +7134,7 @@ Also for the <code>h4</code>, remove the <code>height</code> property and add <c
 </section>
 <hr>
 
-# 10. Applied Visual Design
+# 10. Adjust the Size of a Header Versus a Paragraph Tag
 
 ## Description
 <section id='description'>
@@ -7212,7 +7212,7 @@ To make the heading significantly larger than the paragraph, change the <code>fo
 </section>
 <hr>
 
-# 11. Applied Visual Design
+# 11. Add a box-shadow to a Card-like Element
 
 ## Description
 <section id='description'>
@@ -7298,7 +7298,7 @@ var code = "#thumbnail {box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba
 </section>
 <hr>
 
-# 12. Applied Visual Design
+# 12. Decrease the Opacity of an Element
 
 ## Description
 <section id='description'>
@@ -7382,7 +7382,7 @@ Set the <code>opacity</code> of the anchor tags to 0.7 using <code>links</code> 
 </section>
 <hr>
 
-# 13. Applied Visual Design
+# 13. Use the text-transform Property to Make Text Uppercase
 
 ## Description
 <section id='description'>
@@ -7467,7 +7467,7 @@ Transform the text of the <code>h4</code> to be uppercase using the <code>text-t
 </section>
 <hr>
 
-# 14. Applied Visual Design
+# 14. Set the font-size for Multiple Heading Elements
 
 ## Description
 <section id='description'>
@@ -7518,7 +7518,7 @@ The <code>font-size</code> property is used to specify how large the text is in 
 </section>
 <hr>
 
-# 15. Applied Visual Design
+# 15. Set the font-weight for Multiple Heading Elements
 
 ## Description
 <section id='description'>
@@ -7588,7 +7588,7 @@ The <code>font-weight</code> property sets how thick or thin characters are in a
 </section>
 <hr>
 
-# 16. Applied Visual Design
+# 16. Set the font-size of Paragraph Text
 
 ## Description
 <section id='description'>
@@ -7633,7 +7633,7 @@ Change the value of the <code>font-size</code> property for the paragraph to 16p
 </section>
 <hr>
 
-# 17. Applied Visual Design
+# 17. Set the line-height of Paragraphs
 
 ## Description
 <section id='description'>
@@ -7679,7 +7679,7 @@ Add a <code>line-height</code> property to the <code>p</code> tag and set it to 
 </section>
 <hr>
 
-# 18. Applied Visual Design
+# 18. Adjust the Hover State of an Anchor Tag
 
 ## Description
 <section id='description'>
@@ -7738,7 +7738,7 @@ The code editor has a CSS rule to style all <code>a</code> tags black. Add a rul
 </section>
 <hr>
 
-# 19. Applied Visual Design
+# 19. Change an Element's Relative Position
 
 ## Description
 <section id='description'>
@@ -7790,7 +7790,7 @@ Change the <code>position</code> of the <code>h2</code> to <code>relative</code>
 </section>
 <hr>
 
-# 20. Applied Visual Design
+# 20. Move a Relatively Positioned Element with CSS Offsets
 
 ## Description
 <section id='description'>
@@ -7842,7 +7842,7 @@ Use CSS offsets to move the <code>h2</code> 15 pixels to the right and 10 pixels
 </section>
 <hr>
 
-# 21. Applied Visual Design
+# 21. Lock an Element to its Parent with Absolute Positioning
 
 ## Description
 <section id='description'>
@@ -7900,7 +7900,7 @@ Lock the <code>#searchbar</code> element to the top-right of its <code>section</
 </section>
 <hr>
 
-# 22. Applied Visual Design
+# 22. Lock an Element to the Browser Window with Fixed Positioning
 
 ## Description
 <section id='description'>
@@ -7970,7 +7970,7 @@ The navigation bar in the code is labeled with an id of <code>navbar</code>. Cha
 </section>
 <hr>
 
-# 23. Applied Visual Design
+# 23. Push Elements Left or Right with the float Property
 
 ## Description
 <section id='description'>
@@ -8036,7 +8036,7 @@ The given markup would work well as a two-column layout, with the <code>section<
 </section>
 <hr>
 
-# 24. Applied Visual Design
+# 24. Change the Position of Overlapping Elements with the z-index Property
 
 ## Description
 <section id='description'>
@@ -8096,7 +8096,7 @@ Add a <code>z-index</code> property to the element with the class name of <code>
 </section>
 <hr>
 
-# 25. Applied Visual Design
+# 25. Center an Element Horizontally Using the margin Property
 
 ## Description
 <section id='description'>
@@ -8145,7 +8145,7 @@ var code = "div {background-color: blue; height: 100px; width: 100px; margin: au
 </section>
 <hr>
 
-# 26. Applied Visual Design
+# 26. Learn about Complementary Colors
 
 ## Description
 <section id='description'>
@@ -8206,7 +8206,7 @@ Change the <code>background-color</code> property of the <code>blue</code> and <
 </section>
 <hr>
 
-# 27. Applied Visual Design
+# 27. Learn about Tertiary Colors
 
 ## Description
 <section id='description'>
@@ -8274,7 +8274,7 @@ Change the <code>background-color</code> property of the <code>orange</code>, <c
 </section>
 <hr>
 
-# 28. Applied Visual Design
+# 28. Adjust the Color of Various Elements to Complementary Colors
 
 ## Description
 <section id='description'>
@@ -8349,7 +8349,7 @@ This page will use a shade of teal (<code>#09A7A1</code>) as the dominant color,
 </section>
 <hr>
 
-# 29. Applied Visual Design
+# 29. Adjust the Hue of a Color
 
 ## Description
 <section id='description'>
@@ -8418,7 +8418,7 @@ Change the <code>background-color</code> of each <code>div</code> element based 
 </section>
 <hr>
 
-# 30. Applied Visual Design
+# 30. Adjust the Tone of a Color
 
 ## Description
 <section id='description'>
@@ -8498,7 +8498,7 @@ var code = "nav {background-color: hsl(180, 80%, 25%);}"
 </section>
 <hr>
 
-# 31. Applied Visual Design
+# 31. Create a Gradual CSS Linear Gradient
 
 ## Description
 <section id='description'>
@@ -8555,7 +8555,7 @@ var code = "<style> div{border-radius: 20px; width: 70%; height: 400px; margin: 
 </section>
 <hr>
 
-# 32. Applied Visual Design
+# 32. Use a CSS Linear Gradient to Create a Striped Element
 
 ## Description
 <section id='description'>
@@ -8618,7 +8618,7 @@ var code = "background: repeating-linear-gradient(45deg, yellow 0px, yellow 40px
 </section>
 <hr>
 
-# 33. Applied Visual Design
+# 33. Create Texture by Adding a Subtle Pattern as a Background Image
 
 ## Description
 <section id='description'>
@@ -8662,7 +8662,7 @@ var code = "body {background: url('https://i.imgur.com/MJAkxbh.png')}"
 </section>
 <hr>
 
-# 34. Applied Visual Design
+# 34. Use the CSS Transform scale Property to Change the Size of an Element
 
 ## Description
 <section id='description'>
@@ -8728,7 +8728,7 @@ var code = "#ball2 {left: 65%; transform: scale(1.5);}"
 </section>
 <hr>
 
-# 35. Applied Visual Design
+# 35. Use the CSS Transform scale Property to Scale an Element on Hover
 
 ## Description
 <section id='description'>
@@ -8788,7 +8788,7 @@ var code = "div:hover {transform: scale(1.1);}"
 </section>
 <hr>
 
-# 36. Applied Visual Design
+# 36. Use the CSS Transform Property skewX to Skew an Element Along the X-Axis
 
 ## Description
 <section id='description'>
@@ -8846,7 +8846,7 @@ var code = "#bottom {background-color: blue; transform: skewX(24deg);}"
 </section>
 <hr>
 
-# 37. Applied Visual Design
+# 37. Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
 
 ## Description
 <section id='description'>
@@ -8903,7 +8903,7 @@ var code = "#top {background-color: red; transform: skewY(-10deg);}"
 </section>
 <hr>
 
-# 38. Applied Visual Design
+# 38. Create a Graphic Using CSS
 
 ## Description
 <section id='description'>
@@ -8964,7 +8964,7 @@ var code = ".center {background-color: transparent; border-radius: 50%; box-shad
 </section>
 <hr>
 
-# 39. Applied Visual Design
+# 39. Create a More Complex Shape Using CSS and HTML
 
 ## Description
 <section id='description'>
@@ -9076,7 +9076,7 @@ Finally, in the <code>heart::before</code> selector, set its <code>content</code
 </section>
 <hr>
 
-# 40. Applied Visual Design
+# 40. Learn How the CSS @keyframes and animation Properties Work
 
 ## Description
 <section id='description'>
@@ -9137,7 +9137,7 @@ Create an animation for the element with the id <code>rect</code>, by setting th
 </section>
 <hr>
 
-# 41. Applied Visual Design
+# 41. Use CSS Animation to Change the Hover State of a Button
 
 ## Description
 <section id='description'>
@@ -9194,7 +9194,7 @@ Use CSS <code>@keyframes</code> to change the <code>background-color</code> of t
 </section>
 <hr>
 
-# 42. Applied Visual Design
+# 42. Modify Fill Mode of an Animation
 
 ## Description
 <section id='description'>
@@ -9256,7 +9256,7 @@ var code = "button:hover {animation-name: background-color; animation-duration: 
 </section>
 <hr>
 
-# 43. Applied Visual Design
+# 43. Create Movement Using CSS Animation
 
 ## Description
 <section id='description'>
@@ -9332,7 +9332,7 @@ var code = "@keyframes rainbow {0% {background-color: blue; top: 0px; left: 0px;
 </section>
 <hr>
 
-# 44. Applied Visual Design
+# 44. Create Visual Direction by Fading an Element from Left to Right
 
 ## Description
 <section id='description'>
@@ -9400,7 +9400,7 @@ var code = "@keyframes fade {50% { left: 60%; opacity: 0.1;}}"
 </section>
 <hr>
 
-# 45. Applied Visual Design
+# 45. Animate Elements Continually Using an Infinite Animation Count
 
 ## Description
 <section id='description'>
@@ -9472,7 +9472,7 @@ To keep the ball bouncing on the right on a continuous loop, change the <code>an
 </section>
 <hr>
 
-# 46. Applied Visual Design
+# 46. Make a CSS Heartbeat using an Infinite Animation Count
 
 ## Description
 <section id='description'>
@@ -9579,7 +9579,7 @@ Keep the heart beating by adding the <code>animation-iteration-count</code> prop
 </section>
 <hr>
 
-# 47. Applied Visual Design
+# 47. Animate Elements at Variable Rates
 
 ## Description
 <section id='description'>
@@ -9671,7 +9671,7 @@ var code = "@keyframes twinkle-1 {50% {transform: scale(0.5); opacity: 0.5;}}"
 </section>
 <hr>
 
-# 48. Applied Visual Design
+# 48. Animate Multiple Elements at Variable Rates
 
 ## Description
 <section id='description'>
@@ -9762,7 +9762,7 @@ Set the <code>animation-duration</code> of the elements with the classes <code>s
 </section>
 <hr>
 
-# 49. Applied Visual Design
+# 49. Change Animation Timing with Keywords
 
 ## Description
 <section id='description'>
@@ -9839,7 +9839,7 @@ For the elements with id of <code>ball1</code> and <code>ball2</code>, add an <c
 </section>
 <hr>
 
-# 50. Applied Visual Design
+# 50. Learn How Bezier Curves Work
 
 ## Description
 <section id='description'>
@@ -9919,7 +9919,7 @@ For the element with the id of <code>ball1</code>, change the value of the <code
 </section>
 <hr>
 
-# 51. Applied Visual Design
+# 51. Use a Bezier Curve to Move a Graphic
 
 ## Description
 <section id='description'>
@@ -9991,7 +9991,7 @@ To see the effect of this Bezier curve in action, change the <code>animation-tim
 </section>
 <hr>
 
-# 52. Applied Visual Design
+# 52. Make Motion More Natural Using a Bezier Curve
 
 ## Description
 <section id='description'>
@@ -10068,7 +10068,7 @@ Change value of the <code>animation-timing-function</code> of the element with t
 </section>
 <hr>
 
-# 1. Applied Accessibility
+# 1. Add a Text Alternative to Images for Visually Impaired Accessibility
 
 ## Description
 <section id='description'>
@@ -10111,7 +10111,7 @@ Camper Cat happens to be both a coding ninja and an actual ninja, who is buildin
 </section>
 <hr>
 
-# 2. Applied Accessibility
+# 2. Know When Alt Text Should be Left Blank
 
 ## Description
 <section id='description'>
@@ -10164,7 +10164,7 @@ Camper Cat has coded a skeleton page for the blog part of his website. He's plan
 </section>
 <hr>
 
-# 3. Applied Accessibility
+# 3. Use Headings to Show Hierarchical Relationships of Content
 
 ## Description
 <section id='description'>
@@ -10220,7 +10220,7 @@ Camper Cat wants a page on his site dedicated to becoming a ninja. Help him fix 
 </section>
 <hr>
 
-# 4. Applied Accessibility
+# 4. Jump Straight to the Content Using the main Element
 
 ## Description
 <section id='description'>
@@ -10267,7 +10267,7 @@ Camper Cat has some big ideas for his ninja weapons page. Help him set up his ma
 </section>
 <hr>
 
-# 5. Applied Accessibility
+# 5. Wrap Content in the article Element
 
 ## Description
 <section id='description'>
@@ -10329,7 +10329,7 @@ Camper Cat used <code>article</code> tags to wrap the posts on his blog page, bu
 </section>
 <hr>
 
-# 6. Applied Accessibility
+# 6. Make Screen Reader Navigation Easier with the header Landmark
 
 ## Description
 <section id='description'>
@@ -10393,7 +10393,7 @@ Camper Cat is writing some great articles about ninja training, and wants to add
 </section>
 <hr>
 
-# 7. Applied Accessibility
+# 7. Make Screen Reader Navigation Easier with the nav Landmark
 
 ## Description
 <section id='description'>
@@ -10462,7 +10462,7 @@ Camper Cat included navigation links at the top of his training page, but wrappe
 </section>
 <hr>
 
-# 8. Applied Accessibility
+# 8. Make Screen Reader Navigation Easier with the footer Landmark
 
 ## Description
 <section id='description'>
@@ -10533,7 +10533,7 @@ Camper Cat's training page is making good progress. Change the <code>div</code> 
 </section>
 <hr>
 
-# 9. Applied Accessibility
+# 9. Improve Accessibility of Audio Content with the audio Element
 
 ## Description
 <section id='description'>
@@ -10586,7 +10586,7 @@ Time to take a break from Camper Cat and meet fellow camper Zersiax (@zersiax), 
 </section>
 <hr>
 
-# 10. Applied Accessibility
+# 10. Improve Chart Accessibility with the figure Element
 
 ## Description
 <section id='description'>
@@ -10667,7 +10667,7 @@ Camper Cat is hard at work creating a stacked bar chart showing the amount of ti
 </section>
 <hr>
 
-# 11. Applied Accessibility
+# 11. Improve Form Field Accessibility with the label Element
 
 ## Description
 <section id='description'>
@@ -10740,7 +10740,7 @@ Camper Cat expects a lot of interest in his thoughtful blog posts and wants to i
 </section>
 <hr>
 
-# 12. Applied Accessibility
+# 12. Wrap Radio Buttons in a fieldset Element for Better Accessibility
 
 ## Description
 <section id='description'>
@@ -10824,7 +10824,7 @@ Camper Cat wants information about the ninja level of his users when they sign u
 </section>
 <hr>
 
-# 13. Applied Accessibility
+# 13. Add an Accessible Date Picker
 
 ## Description
 <section id='description'>
@@ -10904,7 +10904,7 @@ Camper Cat is setting up a Mortal Kombat tournament and wants to ask his competi
 </section>
 <hr>
 
-# 14. Applied Accessibility
+# 14. Standardize Times with the HTML5 datetime Attribute
 
 ## Description
 <section id='description'>
@@ -10974,7 +10974,7 @@ Camper Cat's Mortal Kombat survey results are in! Wrap a <code>time</code> tag a
 </section>
 <hr>
 
-# 15. Applied Accessibility
+# 15. Make Elements Only Visible to a Screen Reader by Using Custom CSS
 
 ## Description
 <section id='description'>
@@ -11103,7 +11103,7 @@ Camper Cat created a really cool stacked bar chart for his training page, and pu
 </section>
 <hr>
 
-# 16. Applied Accessibility
+# 16. Improve Readability with High Contrast Text
 
 ## Description
 <section id='description'>
@@ -11159,7 +11159,7 @@ Camper Cat's choice of light gray text on a white background for his recent blog
 </section>
 <hr>
 
-# 17. Applied Accessibility
+# 17. Avoid Colorblindness Issues by Using Sufficient Contrast
 
 ## Description
 <section id='description'>
@@ -11219,7 +11219,7 @@ var code = "body {color: hsl(0, 55%, 15%); background-color: hsl(120, 25%, 55%);
 </section>
 <hr>
 
-# 18. Applied Accessibility
+# 18. Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
 
 ## Description
 <section id='description'>
@@ -11274,7 +11274,7 @@ Camper Cat is testing different styles for an important button, but the yellow (
 </section>
 <hr>
 
-# 19. Applied Accessibility
+# 19. Give Links Meaning by Using Descriptive Link Text
 
 ## Description
 <section id='description'>
@@ -11321,7 +11321,7 @@ The link text that Camper Cat is using is not very descriptive without the surro
 </section>
 <hr>
 
-# 21. Applied Accessibility
+# 21. Use tabindex to Add Keyboard Focus to an Element
 
 ## Description
 <section id='description'>
@@ -11408,7 +11408,7 @@ Camper Cat created a new survey to collect information about his users. He knows
 </section>
 <hr>
 
-# 22. Applied Accessibility
+# 22. Use tabindex to Specify the Order of Keyboard Focus for Several Elements
 
 ## Description
 <section id='description'>
@@ -11481,7 +11481,7 @@ Camper Cat has a search field on his Inspirational Quotes page that he plans to 
 </section>
 <hr>
 
-# 1. Responsive Web Design Principles
+# 1. Create a Media Query
 
 ## Description
 <section id='description'>
@@ -11547,7 +11547,7 @@ Add a media query, so that the <code>p</code> tag has a <code>font-size</code> o
 </section>
 <hr>
 
-# 2. Responsive Web Design Principles
+# 2. Make an Image Responsive
 
 ## Description
 <section id='description'>
@@ -11593,7 +11593,7 @@ Add style rules for the <code>img</code> tag to make it responsive to the size o
 </section>
 <hr>
 
-# 3. Responsive Web Design Principles
+# 3. Use a Retina Image for Higher Resolution Displays
 
 ## Description
 <section id='description'>
@@ -11639,7 +11639,7 @@ Set the <code>width</code> and <code>height</code> of the <code>img</code> tag t
 </section>
 <hr>
 
-# 4. Responsive Web Design Principles
+# 4. Make Typography Responsive
 
 ## Description
 <section id='description'>
@@ -11688,7 +11688,7 @@ var code = "h2 {width: 80vw;} p {width: 75vmin;}"
 </section>
 <hr>
 
-# 1. CSS Flexbox
+# 1. Use display: flex to Position Two Boxes
 
 ## Description
 <section id='description'>
@@ -11748,7 +11748,7 @@ Add the CSS property <code>display</code> to <code>#box-container</code> and set
 </section>
 <hr>
 
-# 2. CSS Flexbox
+# 2. Add Flex Superpowers to the Tweet Embed
 
 ## Description
 <section id='description'>
@@ -11964,7 +11964,7 @@ Add the CSS property <code>display: flex</code> to all of the following items - 
 </section>
 <hr>
 
-# 3. CSS Flexbox
+# 3. Use the flex-direction Property to Make a Row
 
 ## Description
 <section id='description'>
@@ -12026,7 +12026,7 @@ Add the CSS property <code>flex-direction</code> to the <code>#box-container</co
 </section>
 <hr>
 
-# 4. CSS Flexbox
+# 4. Apply the flex-direction Property to Create Rows in the Tweet Embed
 
 ## Description
 <section id='description'>
@@ -12156,7 +12156,7 @@ var code = "header {flex-direction: row;} footer {flex-direction: row;}"
 </section>
 <hr>
 
-# 5. CSS Flexbox
+# 5. Use the flex-direction Property to Make a Column
 
 ## Description
 <section id='description'>
@@ -12216,7 +12216,7 @@ Add the CSS property <code>flex-direction</code> to the <code>#box-container</co
 </section>
 <hr>
 
-# 6. CSS Flexbox
+# 6. Apply the flex-direction Property to Create a Column in the Tweet Embed
 
 ## Description
 <section id='description'>
@@ -12341,7 +12341,7 @@ Add the CSS property <code>flex-direction</code> to the header's <code>.profile-
 </section>
 <hr>
 
-# 7. CSS Flexbox
+# 7. Align Elements Using the justify-content Property
 
 ## Description
 <section id='description'>
@@ -12407,7 +12407,7 @@ An example helps show this property in action. Add the CSS property <code>justif
 </section>
 <hr>
 
-# 8. CSS Flexbox
+# 8. Use the justify-content Property in the Tweet Embed
 
 ## Description
 <section id='description'>
@@ -12535,7 +12535,7 @@ var code = "header .profile-name {display: flex; flex-direction: column; justify
 </section>
 <hr>
 
-# 9. CSS Flexbox
+# 9. Align Elements Using the align-items Property
 
 ## Description
 <section id='description'>
@@ -12601,7 +12601,7 @@ An example helps show this property in action. Add the CSS property <code>align-
 </section>
 <hr>
 
-# 10. CSS Flexbox
+# 10. Use the align-items Property in the Tweet Embed
 
 ## Description
 <section id='description'>
@@ -12728,7 +12728,7 @@ Add the CSS property <code>align-items</code> to the header's <code>.follow-btn<
 </section>
 <hr>
 
-# 11. CSS Flexbox
+# 11. Use the flex-wrap Property to Wrap a Row or Column
 
 ## Description
 <section id='description'>
@@ -12816,7 +12816,7 @@ The current layout has too many boxes for one row. Add the CSS property <code>fl
 </section>
 <hr>
 
-# 12. CSS Flexbox
+# 12. Use the flex-shrink Property to Shrink Items
 
 ## Description
 <section id='description'>
@@ -12879,7 +12879,7 @@ Add the CSS property <code>flex-shrink</code> to both <code>#box-1</code> and <c
 </section>
 <hr>
 
-# 13. CSS Flexbox
+# 13. Use the flex-grow Property to Expand Items
 
 ## Description
 <section id='description'>
@@ -12940,7 +12940,7 @@ Add the CSS property <code>flex-grow</code> to both <code>#box-1</code> and <cod
 </section>
 <hr>
 
-# 14. CSS Flexbox
+# 14. Use the flex-basis Property to Set the Initial Size of an Item
 
 ## Description
 <section id='description'>
@@ -13024,7 +13024,7 @@ Set the initial size of the boxes using <code>flex-basis</code>. Add the CSS pro
 </section>
 <hr>
 
-# 15. CSS Flexbox
+# 15. Use the flex Shorthand Property
 
 ## Description
 <section id='description'>
@@ -13086,7 +13086,7 @@ These values will cause <code>#box-1</code> to grow to fill the extra space at t
 </section>
 <hr>
 
-# 16. CSS Flexbox
+# 16. Use the order Property to Rearrange Items
 
 ## Description
 <section id='description'>
@@ -13147,7 +13147,7 @@ Add the CSS property <code>order</code> to both <code>#box-1</code> and <code>#b
 </section>
 <hr>
 
-# 17. CSS Flexbox
+# 17. Use the align-self Property
 
 ## Description
 <section id='description'>
@@ -13209,7 +13209,7 @@ Add the CSS property <code>align-self</code> to both <code>#box-1</code> and <co
 </section>
 <hr>
 
-# 1. CSS Grid
+# 1. Create Your First CSS Grid
 
 ## Description
 <section id='description'>
@@ -13274,7 +13274,7 @@ var code = ".container {display: grid;}"
 </section>
 <hr>
 
-# 2. CSS Grid
+# 2. Add Columns with grid-template-columns
 
 ## Description
 <section id='description'>
@@ -13342,7 +13342,7 @@ var code = ".container {grid-template-columns: 100px 100px 100px;}"
 </section>
 <hr>
 
-# 3. CSS Grid
+# 3. Add Rows with grid-template-rows
 
 ## Description
 <section id='description'>
@@ -13408,7 +13408,7 @@ var code = ".container {grid-template-rows: 50px 50px;}"
 </section>
 <hr>
 
-# 4. CSS Grid
+# 4. Use CSS Grid units to Change the Size of Columns and Rows
 
 ## Description
 <section id='description'>
@@ -13481,7 +13481,7 @@ var code = ".container {grid-template-columns: 1fr 100px 2fr;}"
 </section>
 <hr>
 
-# 5. CSS Grid
+# 5. Create a Column Gap Using grid-column-gap
 
 ## Description
 <section id='description'>
@@ -13551,7 +13551,7 @@ var code = ".container {grid-column-gap: 20px;}"
 </section>
 <hr>
 
-# 6. CSS Grid
+# 6. Create a Row Gap using grid-row-gap
 
 ## Description
 <section id='description'>
@@ -13619,7 +13619,7 @@ var code = ".container {grid-row-gap: 5px;}"
 </section>
 <hr>
 
-# 7. CSS Grid
+# 7. Add Gaps Faster with grid-gap
 
 ## Description
 <section id='description'>
@@ -13686,7 +13686,7 @@ var code = ".container {grid-gap: 10px 20px;}"
 </section>
 <hr>
 
-# 8. CSS Grid
+# 8. Use grid-column to Control Spacing
 
 ## Description
 <section id='description'>
@@ -13765,7 +13765,7 @@ var code = ".item5 {grid-column: 2 / 4;}"
 </section>
 <hr>
 
-# 9. CSS Grid
+# 9. Use grid-row to Control Spacing
 
 ## Description
 <section id='description'>
@@ -13838,7 +13838,7 @@ var code = ".item5 {grid-row: 2 / 4;}"
 </section>
 <hr>
 
-# 10. CSS Grid
+# 10. Align an Item Horizontally using justify-self
 
 ## Description
 <section id='description'>
@@ -13914,7 +13914,7 @@ var code = ".item2 {justify-self: center;}"
 </section>
 <hr>
 
-# 11. CSS Grid
+# 11. Align an Item Vertically using align-self
 
 ## Description
 <section id='description'>
@@ -13987,7 +13987,7 @@ var code = ".item3 {align-self: end;}"
 </section>
 <hr>
 
-# 12. CSS Grid
+# 12. Align All Items Horizontally using justify-items
 
 ## Description
 <section id='description'>
@@ -14056,7 +14056,7 @@ var code = ".container {justify-items: center;}"
 </section>
 <hr>
 
-# 13. CSS Grid
+# 13. Align All Items Vertically using align-items
 
 ## Description
 <section id='description'>
@@ -14125,7 +14125,7 @@ var code = ".container {align-items: end;}"
 </section>
 <hr>
 
-# 14. CSS Grid
+# 14. Divide the Grid Into an Area Template
 
 ## Description
 <section id='description'>
@@ -14230,7 +14230,7 @@ Place the area template so that the cell labeled <code>advert</code> becomes an 
 </section>
 <hr>
 
-# 15. CSS Grid
+# 15. Place Items in Grid Areas Using the grid-area Property
 
 ## Description
 <section id='description'>
@@ -14308,7 +14308,7 @@ var code = ".item5 {grid-area: footer;}"
 </section>
 <hr>
 
-# 16. CSS Grid
+# 16. Use grid-area Without Creating an Areas Template
 
 ## Description
 <section id='description'>
@@ -14384,7 +14384,7 @@ var code = ".item5 {grid-area: 3/1/4/4;}"
 </section>
 <hr>
 
-# 17. CSS Grid
+# 17. Reduce Repetition Using the repeat Function
 
 ## Description
 <section id='description'>
@@ -14461,7 +14461,7 @@ var code = ".container {grid-template-columns: repeat(3, 1fr);}"
 </section>
 <hr>
 
-# 18. CSS Grid
+# 18. Limit Item Size Using the minmax Function
 
 ## Description
 <section id='description'>
@@ -14532,7 +14532,7 @@ var code = ".container {grid-template-columns: repeat(3, minmax(90px, 1fr));}"
 </section>
 <hr>
 
-# 19. CSS Grid
+# 19. Create Flexible Layouts Using auto-fill
 
 ## Description
 <section id='description'>
@@ -14622,7 +14622,7 @@ var code = ".container {grid-template-columns: repeat(auto-fill, minmax(60px, 1f
 </section>
 <hr>
 
-# 20. CSS Grid
+# 20. Create Flexible Layouts Using auto-fit
 
 ## Description
 <section id='description'>
@@ -14710,7 +14710,7 @@ var code = ".container {grid-template-columns: repeat( auto-fill, minmax(60px, 1
 </section>
 <hr>
 
-# 21. CSS Grid
+# 21. Use Media Queries to Create Responsive Layouts
 
 ## Description
 <section id='description'>
@@ -14884,7 +14884,7 @@ When the viewport width is <code>400px</code> or more, make the header area occu
 </section>
 <hr>
 
-# 22. CSS Grid
+# 22. Create Grids within Grids
 
 ## Description
 <section id='description'>
@@ -14982,7 +14982,7 @@ var code = ".item3 {grid-template-columns: auto 1fr; display: grid;}"
 </section>
 <hr>
 
-# 1. Responsive Web Design Projects
+# 1. Build a Tribute Page
 
 ## Description
 <section id='description'>
@@ -15024,7 +15024,7 @@ Remember to use the <a href='https://forum.freecodecamp.org/t/how-to-get-help-wh
 </section>
 <hr>
 
-# 2. Responsive Web Design Projects
+# 2. Build a Survey Form
 
 ## Description
 <section id='description'>
@@ -15073,7 +15073,7 @@ Remember to use the <a href='https://forum.freecodecamp.org/t/how-to-get-help-wh
 </section>
 <hr>
 
-# 3. Responsive Web Design Projects
+# 3. Build a Product Landing Page
 
 ## Description
 <section id='description'>
@@ -15121,7 +15121,7 @@ Remember to use the <a href='https://forum.freecodecamp.org/t/how-to-get-help-wh
 </section>
 <hr>
 
-# 4. Responsive Web Design Projects
+# 4. Build a Technical Documentation Page
 
 ## Description
 <section id='description'>
@@ -15169,7 +15169,7 @@ Remember to use the <a href='https://forum.freecodecamp.org/t/how-to-get-help-wh
 </section>
 <hr>
 
-# 5. Responsive Web Design Projects
+# 5. Build a Personal Portfolio Webpage
 
 ## Description
 <section id='description'>
