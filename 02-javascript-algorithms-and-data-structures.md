@@ -9,7 +9,7 @@ There are two ways to write comments in JavaScript:
 Using <code>//</code> will tell JavaScript to ignore the remainder of the text on the current line:
 <blockquote>// This is an in-line comment.</blockquote>
 You can make a multi-line comment beginning with <code>/*</code> and ending with <code>*/</code>:
-<blockquote>/* This is a<br>multi-line comment */</blockquote>
+<blockquote>/*This is a<br>multi-line comment */</blockquote>
 <strong>Best Practice</strong><br>As you write code, you should regularly add comments to clarify the function of parts of your code. Good commenting can help communicate the intent of your code&mdash;both for others <em>and</em> for your future self.
 </section>
 
@@ -41,7 +41,7 @@ Try creating one of each type of comment.
 
 ```js
 // Fake Comment
-/* Another Comment */
+/*Another Comment */
 ```
 
 </section>
@@ -474,7 +474,7 @@ We can also multiply one number by another.
 JavaScript uses the <code>*</code> symbol for multiplication of two numbers.
 
 <strong>Example</strong>
-<blockquote>myVar = 13 * 13; // assigned 169</blockquote>
+<blockquote>myVar = 13 *13; // assigned 169</blockquote>
 
 </section>
 
@@ -491,7 +491,7 @@ Change the <code>0</code> so that product will equal <code>80</code>.
 <div id='js-seed'>
 
 ```js
-var product = 8 * 0;
+var product = 8 *0;
 
 
 ```
@@ -515,7 +515,7 @@ var product = 8 * 0;
 
 
 ```js
-var product = 8 * 10;
+var product = 8 *10;
 ```
 
 </section>
@@ -765,7 +765,7 @@ Change the <code>0.0</code> so that product will equal <code>5.0</code>.
 <div id='js-seed'>
 
 ```js
-var product = 2.0 * 0.0;
+var product = 2.0 *0.0;
 
 
 ```
@@ -789,7 +789,7 @@ var product = 2.0 * 0.0;
 
 
 ```js
-var product = 2.0 * 2.5;
+var product = 2.0 *2.5;
 ```
 
 </section>
@@ -847,7 +847,7 @@ var quotient = 4.4 / 2.0;
 <section id='description'>
 The <dfn>remainder</dfn> operator <code>%</code> gives the remainder of the division of two numbers.
 <strong>Example</strong>
-<blockquote>5 % 2 = 1 because<br>Math.floor(5 / 2) = 2 (Quotient)<br>2 * 2 = 4<br>5 - 4 = 1 (Remainder)</blockquote>
+<blockquote>5 % 2 = 1 because<br>Math.floor(5 / 2) = 2 (Quotient)<br>2 *2 = 4<br>5 - 4 = 1 (Remainder)</blockquote>
 <strong>Usage</strong><br>In mathematics, a number can be checked to be even or odd by checking the remainder of the division of the number by <code>2</code>.
 <blockquote>17 % 2 = 1 (17 is Odd)<br>48 % 2 = 0 (48 is Even)</blockquote>
 <strong>Note</strong><br>The <dfn>remainder</dfn> operator is sometimes incorrectly referred to as  the "modulus" operator. It is very similar to modulus, but does not work properly with negative numbers.
@@ -1038,7 +1038,7 @@ c -= 1;
 ## Description
 <section id='description'>
 The <code>*=</code> operator multiplies a variable by a number.
-<code>myVar = myVar * 5;</code>
+<code>myVar = myVar *5;</code>
 will multiply <code>myVar</code> by <code>5</code>. This can be rewritten as:
 <code>myVar *= 5;</code>
 </section>
@@ -1062,9 +1062,9 @@ var c = 4.6;
 
 // Only modify code below this line
 
-a = a * 5;
-b = 3 * b;
-c = c * 10;
+a = a *5;
+b = 3 *b;
+c = c *10;
 
 
 ```
@@ -3271,7 +3271,7 @@ console.log(minusSeven(10));
 
 ```js
 function timesFive(num) {
-  return num * 5;
+  return num *5;
 }
 timesFive(10);
 ```
@@ -6933,7 +6933,7 @@ It's great that we can generate random decimal numbers, but it's even more usefu
 <ol><li>Use <code>Math.random()</code> to generate a random decimal.</li><li>Multiply that random decimal by <code>20</code>.</li><li>Use another function, <code>Math.floor()</code> to round the number down to its nearest whole number.</li></ol>
 Remember that <code>Math.random()</code> can never quite return a <code>1</code> and, because we're rounding down, it's impossible to actually get <code>20</code>. This technique will give us a whole number between <code>0</code> and <code>19</code>.
 Putting everything together, this is what our code looks like:
-<code>Math.floor(Math.random() * 20);</code>
+<code>Math.floor(Math.random() *20);</code>
 We are calling <code>Math.random()</code>, multiplying the result by 20, then passing the value to <code>Math.floor()</code> function to round the value down to the nearest whole number.
 </section>
 
@@ -6950,7 +6950,7 @@ Use this technique to generate and return a random whole number between <code>0<
 <div id='js-seed'>
 
 ```js
-var randomNumberBetween0and19 = Math.floor(Math.random() * 20);
+var randomNumberBetween0and19 = Math.floor(Math.random() *20);
 
 function randomWholeNum() {
 
@@ -6979,9 +6979,9 @@ function randomWholeNum() {
 
 
 ```js
-var randomNumberBetween0and19 = Math.floor(Math.random() * 20);
+var randomNumberBetween0and19 = Math.floor(Math.random() *20);
 function randomWholeNum() {
-  return Math.floor(Math.random() * 10);
+  return Math.floor(Math.random() *10);
 }
 ```
 
@@ -6995,7 +6995,7 @@ function randomWholeNum() {
 Instead of generating a random number between zero and a given number like we did before, we can generate a random number that falls within a range of two specific numbers.
 To do this, we'll define a minimum number <code>min</code> and a maximum number <code>max</code>.
 Here's the formula we'll use. Take a moment to read it and try to understand what this code is doing:
-<code>Math.floor(Math.random() * (max - min + 1)) + min</code>
+<code>Math.floor(Math.random() *(max - min + 1)) + min</code>
 </section>
 
 ## Instructions
@@ -7014,7 +7014,7 @@ Create a function called <code>randomRange</code> that takes a range <code>myMin
 // Example
 function ourRandomRange(ourMin, ourMax) {
 
-  return Math.floor(Math.random() * (ourMax - ourMin + 1)) + ourMin;
+  return Math.floor(Math.random() *(ourMax - ourMin + 1)) + ourMin;
 }
 
 ourRandomRange(1, 9);
@@ -7064,7 +7064,7 @@ for(var i = 0; i < 100; i++) {
 
 ```js
 function randomRange(myMin, myMax) {
-  return Math.floor(Math.random() * (myMax - myMin + 1)) + myMin;
+  return Math.floor(Math.random() *(myMax - myMin + 1)) + myMin;
 }
 ```
 
@@ -7658,11 +7658,11 @@ const magic = () => {
 ## Description
 <section id='description'>
 Just like a regular function, you can pass arguments into an arrow function.
-<blockquote>// doubles input value and returns it<br>const doubler = (item) => item * 2;</blockquote>
+<blockquote>// doubles input value and returns it<br>const doubler = (item) => item *2;</blockquote>
 If an arrow function has a single argument, the parentheses enclosing the argument may be omitted.
-<blockquote>// the same function, without the argument parentheses<br>const doubler = item => item * 2;</blockquote>
+<blockquote>// the same function, without the argument parentheses<br>const doubler = item => item *2;</blockquote>
 It is possible to pass more than one argument into an arrow function.
-<blockquote>// multiplies the first input value by the second and returns it<br>const multiplier = (item, multi) => item * multi;</blockquote>
+<blockquote>// multiplies the first input value by the second and returns it<br>const multiplier = (item, multi) => item *multi;</blockquote>
 </section>
 
 ## Instructions
@@ -7795,7 +7795,7 @@ const squareList = (arr) => {
   });
   const squaredIntegers = positiveIntegers.map((num) => {
     // add code here
-    return num ** 2;
+    return num **2;
   });
   // add code here
   return squaredIntegers;
@@ -8219,7 +8219,7 @@ In some cases, you can destructure the object in a function argument itself.
 Consider the code below:
 <blockquote>const profileUpdate = (profileData) => {<br>&nbsp;&nbsp;const { name, age, nationality, location } = profileData;<br>&nbsp;&nbsp;// do something with these variables<br>}</blockquote>
 This effectively destructures the object sent into the function. This can also be done in-place:
-<blockquote>const profileUpdate = ({ name, age, nationality, location }) => {<br>&nbsp;&nbsp;/* do something with these fields */<br>}</blockquote>
+<blockquote>const profileUpdate = ({ name, age, nationality, location }) => {<br>&nbsp;&nbsp;/*do something with these fields */<br>}</blockquote>
 This removes some extra lines and makes our code look neat.
 This has the added benefit of not having to manipulate an entire object in a function; only the fields that are needed are copied inside the function.
 </section>
@@ -8318,11 +8318,10 @@ function makeList(arr) {
 
   return resultDisplayArray;
 }
-/**
- * makeList(result.failure) should return:
- * [ `<li class="text-warning">no-var</li>`,
- *   `<li class="text-warning">var-on-top</li>`,
- *   `<li class="text-warning">linebreak</li>` ]
+/** *makeList(result.failure) should return:
+ *[ `<li class="text-warning">no-var</li>`,
+ *  `<li class="text-warning">var-on-top</li>`,
+ *  `<li class="text-warning">linebreak</li>` ]
  **/
 const resultDisplayArray = makeList(result.failure);
 ```
@@ -8349,11 +8348,10 @@ function makeList(arr) {
   
   return resultDisplayArray;
 }
-/**
- * makeList(result.failure) should return:
- * [ `<li class="text-warning">no-var</li>`,
- *   `<li class="text-warning">var-on-top</li>`,
- *   `<li class="text-warning">linebreak</li>` ]
+/** *makeList(result.failure) should return:
+ *[ `<li class="text-warning">no-var</li>`,
+ *  `<li class="text-warning">var-on-top</li>`,
+ *  `<li class="text-warning">linebreak</li>` ]
  **/
 const resultDisplayArray = makeList(result.failure);
 ```
@@ -8507,9 +8505,9 @@ The <code>Vegetable</code> lets you create a vegetable object, with a property <
 ```js
 function makeClass() {
   "use strict";
-  /* Alter code below this line */
+  /*Alter code below this line */
 
-  /* Alter code above this line */
+  /*Alter code above this line */
   return Vegetable;
 }
 const Vegetable = makeClass();
@@ -8529,13 +8527,13 @@ console.log(carrot.name); // => should be 'carrot'
 ```js
 function makeClass() {
   "use strict";
-  /* Alter code below this line */
+  /*Alter code below this line */
   class Vegetable {
     constructor(name){
       this.name = name;
     }
   }
-  /* Alter code above this line */
+  /*Alter code above this line */
   return Vegetable;
 }
 const Vegetable = makeClass();
@@ -8564,7 +8562,7 @@ Getters and setters are important, because they hide internal implementation det
 <section id='instructions'>
 Use <code>class</code> keyword to create a Thermostat class. The constructor accepts Fahrenheit temperature.
 Now create <code>getter</code> and <code>setter</code> in the class, to obtain the temperature in Celsius scale.
-Remember that <code>C = 5/9 * (F - 32)</code> and <code>F = C * 9.0 / 5 + 32</code>, where F is the value of temperature in Fahrenheit scale, and C is the value of the same temperature in Celsius scale
+Remember that <code>C = 5/9 *(F - 32)</code> and <code>F = C *9.0 / 5 + 32</code>, where F is the value of temperature in Fahrenheit scale, and C is the value of the same temperature in Celsius scale
 Note
 When you implement this, you would be tracking the temperature inside the class in one scale - either Fahrenheit or Celsius.
 This is the power of getter or setter - you are creating an API for another user, who would get the correct result, no matter which one you track.
@@ -8581,9 +8579,9 @@ In other words, you are abstracting implementation details from the consumer.
 ```js
 function makeClass() {
   "use strict";
-  /* Alter code below this line */
+  /*Alter code below this line */
 
-  /* Alter code above this line */
+  /*Alter code above this line */
   return Thermostat;
 }
 const Thermostat = makeClass();
@@ -8605,10 +8603,10 @@ temp = thermos.temperature; // 26 in C
 ```js
 function makeClass() {
   "use strict";
-  /* Alter code below this line */
+  /*Alter code below this line */
   class Thermostat {
     constructor(fahrenheit) {
-      this._tempInCelsius = 5/9 * (fahrenheit - 32);
+      this._tempInCelsius = 5/9 *(fahrenheit - 32);
     }
     get tempInCelsius(){
       return _tempInCelsius;
@@ -8617,7 +8615,7 @@ function makeClass() {
       this._tempInCelsius = newTemp;
     }
   }
-  /* Alter code above this line */
+  /*Alter code above this line */
   return Thermostat;
 }
 const Thermostat = makeClass();
@@ -8753,10 +8751,10 @@ export const bar = "foo";
 <section id='description'>
 Suppose you have a file that you wish to import all of its contents into the current file. This can be done with the <dfn>import *</dfn> syntax.
 Here's an example where the contents of a file named <code>"math_functions"</code> are imported into a file in the same directory:
-<blockquote>import * as myMathModule from "math_functions";<br>myMathModule.add(2,3);<br>myMathModule.subtract(5,3);</blockquote>
+<blockquote>import *as myMathModule from "math_functions";<br>myMathModule.add(2,3);<br>myMathModule.subtract(5,3);</blockquote>
 And breaking down that code:
-<blockquote>import * as object_with_name_of_your_choice from "file_path_goes_here"<br>object_with_name_of_your_choice.imported_function</blockquote>
-You may use any name following the <code>import * as </code>portion of the statement. In order to utilize this method, it requires an object that receives the imported values. From here, you will use the dot notation to call your imported values.
+<blockquote>import *as object_with_name_of_your_choice from "file_path_goes_here"<br>object_with_name_of_your_choice.imported_function</blockquote>
+You may use any name following the <code>import *as </code>portion of the statement. In order to utilize this method, it requires an object that receives the imported values. From here, you will use the dot notation to call your imported values.
 </section>
 
 ## Instructions
@@ -8799,7 +8797,7 @@ self.require = function(str) {
 <section id='solution'>
 
 ```js
-import * as capitalize_strings from "capitalize_strings";
+import *as capitalize_strings from "capitalize_strings";
 ```
 
 </section>
@@ -12089,7 +12087,7 @@ convertToF(30);
 
 ```js
 function convertToF(celsius) {
-  let fahrenheit = celsius * 9/5 + 32;
+  let fahrenheit = celsius *9/5 + 32;
 
   return fahrenheit;
 }
@@ -12160,7 +12158,7 @@ reverseString("hello");
 Return the factorial of the provided integer.
 If the integer is represented with the letter n, a factorial is the product of all positive integers less than or equal to n.
 Factorials are often represented with the shorthand notation <code>n!</code>
-For example: <code>5! = 1 * 2 * 3 * 4 * 5 = 120</code>
+For example: <code>5! = 1 *2 *3 *4 *5 = 120</code>
 Only integers greater than or equal to zero will be supplied to the function.
 Remember to use <a href="http://forum.freecodecamp.org/t/how-to-get-help-when-you-are-stuck/19514" target="_blank">Read-Search-Ask</a> if you get stuck. Write your own code.
 </section>
@@ -12197,7 +12195,7 @@ factorialize(5);
 
 ```js
 function factorialize(num) {
-  return num < 1 ? 1 : num * factorialize(num - 1);
+  return num < 1 ? 1 : num *factorialize(num - 1);
 }
 
 factorialize(5);
@@ -13331,7 +13329,7 @@ Create a new instance of the <code>House</code> constructor, calling it <code>my
 <div id='js-seed'>
 
 ```js
-/* jshint expr: true */
+/*jshint expr: true */
 
 function House(numBedrooms) {
   this.numBedrooms = numBedrooms;
@@ -14422,7 +14420,7 @@ In the previous challenge, <code>bird</code> had a public property <code>name</c
 Therefore, any part of your code can easily change the name of <code>bird</code> to any value. Think about things like passwords and bank accounts being easily changeable by any part of your codebase. That could cause a lot of issues.
 
 The simplest way to make this public property private is by creating a variable within the constructor function. This changes the scope of that variable to be within the constructor function versus available globally. This way, the variable can only be accessed and changed by methods also within the constructor function.
-<blockquote>function Bird() {<br>&nbsp;&nbsp;let hatchedEgg = 10; // private variable<br><br>&nbsp;&nbsp;/* publicly available method that a bird object can use */<br>&nbsp;&nbsp;this.getHatchedEggCount = function() { <br>&nbsp;&nbsp;&nbsp;&nbsp;return hatchedEgg;<br>&nbsp;&nbsp;};<br>}<br>let ducky = new Bird();<br>ducky.getHatchedEggCount(); // returns 10</blockquote>
+<blockquote>function Bird() {<br>&nbsp;&nbsp;let hatchedEgg = 10; // private variable<br><br>&nbsp;&nbsp;/*publicly available method that a bird object can use */<br>&nbsp;&nbsp;this.getHatchedEggCount = function() { <br>&nbsp;&nbsp;&nbsp;&nbsp;return hatchedEgg;<br>&nbsp;&nbsp;};<br>}<br>let ducky = new Bird();<br>ducky.getHatchedEggCount(); // returns 10</blockquote>
 Here <code>getHachedEggCount</code> is a privileged method, because it has access to the private variable <code>hatchedEgg</code>. This is possible because <code>hatchedEgg</code> is declared in the same context as <code>getHachedEggCount</code>. In JavaScript, a function always has access to the context in which it was created. This is called <code>closure</code>.
 
 </section>
@@ -14608,16 +14606,14 @@ In the code editor, the <code>prepareTea</code> and <code>getTea</code> function
 <div id='js-seed'>
 
 ```js
-/**
- * A long process to prepare tea.
- * @return {string} A cup of tea.
+/** *A long process to prepare tea.
+ *@return {string} A cup of tea.
  **/
 const prepareTea = () => 'greenTea';
 
-/**
- * Get given number of cups of tea.
- * @param {number} numOfCups Number of required cups of tea.
- * @return {Array<string>} Given amount of tea cups.
+/** *Get given number of cups of tea.
+ *@param {number} numOfCups Number of required cups of tea.
+ *@return {Array<string>} Given amount of tea cups.
  **/
 const getTea = (numOfCups) => {
   const teaCups = [];
@@ -14681,23 +14677,20 @@ Note: The data (the number of cups of tea) is supplied as the last argument. We'
 <div id='js-seed'>
 
 ```js
-/**
- * A long process to prepare green tea.
- * @return {string} A cup of green tea.
+/** *A long process to prepare green tea.
+ *@return {string} A cup of green tea.
  **/
 const prepareGreenTea = () => 'greenTea';
 
-/**
- * A long process to prepare black tea.
- * @return {string} A cup of black tea.
+/** *A long process to prepare black tea.
+ *@return {string} A cup of black tea.
  **/
 const prepareBlackTea = () => 'blackTea';
 
-/**
- * Get given number of cups of tea.
- * @param {function():string} prepareTea The type of tea preparing function.
- * @param {number} numOfCups Number of required cups of tea.
- * @return {Array<string>} Given amount of tea cups.
+/** *Get given number of cups of tea.
+ *@param {function():string} prepareTea The type of tea preparing function.
+ *@param {number} numOfCups Number of required cups of tea.
+ *@return {Array<string>} Given amount of tea cups.
  **/
 const getTea = (prepareTea, numOfCups) => {
   const teaCups = [];
@@ -14970,7 +14963,7 @@ Rewrite the code so the global array <code>bookList</code> is not changed inside
 // the global variable
 var bookList = ["The Hound of the Baskervilles", "On The Electrodynamics of Moving Bodies", "Philosophiæ Naturalis Principia Mathematica", "Disquisitiones Arithmeticae"];
 
-/* This function should add a book to the list and return the list */
+/*This function should add a book to the list and return the list */
 // New parameters should come before bookName
 
 // Add your code below this line
@@ -14982,7 +14975,7 @@ function add (bookName) {
   // Add your code above this line
 }
 
-/* This function should remove a book from the list and return the list */
+/*This function should remove a book from the list and return the list */
 // New parameters should come before the bookName one
 
 // Add your code below this line
@@ -15339,7 +15332,7 @@ Array.prototype.myMap = function(callback){
 };
 
 var new_s = s.myMap(function(item){
-  return item * 2;
+  return item *2;
 });
 ```
 
@@ -17241,7 +17234,7 @@ function gcd(a, b) {
 }
 
 function lcm(a, b) {
-    return (a * b) / gcd(a, b);
+    return (a *b) / gcd(a, b);
 }
 
 function smallestCommons(arr) {
@@ -17674,11 +17667,11 @@ orbitalPeriod([{name : "sputnik", avgAlt : 35873.5553}]);
 function orbitalPeriod(arr) {
   var GM = 398600.4418;
   var earthRadius = 6367.4447;
-  var TAU = 2 * Math.PI;
+  var TAU = 2 *Math.PI;
   return arr.map(function(obj) {
     return {
       name: obj.name,
-      orbitalPeriod: Math.round(TAU * Math.sqrt(Math.pow(obj.avgAlt+earthRadius, 3)/GM))
+      orbitalPeriod: Math.round(TAU *Math.sqrt(Math.pow(obj.avgAlt+earthRadius, 3)/GM))
     };
   });
 }
@@ -18029,7 +18022,7 @@ function checkCashRegister(price, cash, cid) {
  change -= curr.val;
  register[curr.name] -= curr.val;
  value += curr.val;
- change = Math.round(change * 100) / 100;
+ change = Math.round(change *100) / 100;
  }
  if(value > 0) {
  acc.push([ curr.name, value ]);
